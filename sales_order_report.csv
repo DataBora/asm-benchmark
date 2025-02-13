@@ -1,0 +1,831 @@
+﻿customer_name,customer_contact_name,customer_country,employee_name,employee_title,shipper_name,ship_name,order_date,delivery_date,freight_value,order_value,billable_value
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 72-A,2022-03-12,2022-04-09,4.2,1036.8,1041
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Davis, Sara",CEO,Shipper ZHISN,Ship to 72-C,2021-12-09,2022-01-06,22.21,863.6,885.81
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Davis, Sara",CEO,Shipper ZHISN,Ship to 72-C,2022-12-26,2023-01-23,137.44,1468.935,1606.375
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 72-C,2021-12-19,2022-01-16,34.86,1228.8,1263.66
+Customer AHPOP,"Welcker, Brian",United Kingdom,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 72-C,2022-05-01,2022-05-29,77.63,2444.31,2521.94
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 72-C,2022-05-23,2022-06-20,178.43,1792.8,1971.23
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 72-A,2023-02-04,2023-03-04,143.28,1630,1773.28
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 72-C,2021-11-21,2021-12-19,288.43,3471.68,3760.11
+Customer AHPOP,"Welcker, Brian",United Kingdom,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 72-C,2022-12-30,2023-01-27,27.33,2278.4,2305.73
+Customer AHXHT,"Frank, Jill",Mexico,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 58-C,2021-11-14,2021-12-12,53.8,568.8,622.6
+Customer AHXHT,"Frank, Jill",Mexico,"Davis, Sara",CEO,Shipper ZHISN,Ship to 58-B,2023-04-02,2023-04-30,46,1196,1242
+Customer AHXHT,"Frank, Jill",Mexico,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 58-B,2023-05-05,2023-06-02,24.95,300,324.95
+Customer AHXHT,"Frank, Jill",Mexico,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 58-B,2022-04-10,2022-05-08,69.32,816.3,885.62
+Customer AHXHT,"Frank, Jill",Mexico,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 58-A,2021-10-04,2021-11-01,0.4,112,112.4
+Customer AHXHT,"Frank, Jill",Mexico,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 58-C,2022-03-13,2022-04-10,83.49,1249.1,1332.59
+Customer AZJED,"Carlson, Jason",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination VAPXU,2022-03-27,2022-04-24,4.93,1512,1516.93
+Customer AZJED,"Carlson, Jason",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination VAPXU,2022-08-07,2022-09-04,97.18,1336.95,1434.13
+Customer AZJED,"Carlson, Jason",Germany,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination QOCBL,2022-06-06,2022-07-04,36.65,1072.425,1109.075
+Customer AZJED,"Carlson, Jason",Germany,"Davis, Sara",CEO,Shipper ETYNR,Destination QOCBL,2022-10-24,2022-11-21,59.25,1270.75,1330
+Customer AZJED,"Carlson, Jason",Germany,"Davis, Sara",CEO,Shipper ETYNR,Destination QOCBL,2023-01-29,2023-02-26,76.1,1078.6875,1154.7875
+Customer AZJED,"Carlson, Jason",Germany,"Davis, Sara",CEO,Shipper GVSUA,Destination QOCBL,2022-09-02,2022-09-30,93.25,1083.15,1176.4
+Customer AZJED,"Carlson, Jason",Germany,"Davis, Sara",CEO,Shipper ZHISN,Destination VAPXU,2021-12-27,2022-01-10,135.35,1903.8,2039.15
+Customer AZJED,"Carlson, Jason",Germany,"Davis, Sara",CEO,Shipper ZHISN,Destination WEGWI,2023-04-09,2023-04-23,242.95,2825.3,3068.25
+Customer AZJED,"Carlson, Jason",Germany,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Destination WEGWI,2022-09-19,2022-10-17,31.85,1423,1454.85
+Customer AZJED,"Carlson, Jason",Germany,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination VAPXU,2021-10-30,2021-11-13,54.83,1840.64,1895.47
+Customer AZJED,"Carlson, Jason",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination QOCBL,2022-09-16,2022-10-14,203.48,2301.75,2505.23
+Customer AZJED,"Carlson, Jason",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination VAPXU,2021-07-29,2021-08-26,208.58,3536.6,3745.18
+Customer AZJED,"Carlson, Jason",Germany,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination QOCBL,2021-10-24,2021-11-21,108.26,2467,2575.26
+Customer AZJED,"Carlson, Jason",Germany,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination QOCBL,2022-12-23,2023-01-20,16.85,1829.757,1846.607
+Customer AZJED,"Carlson, Jason",Germany,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination QOCBL,2023-03-05,2023-04-02,33.93,1174.75,1208.68
+Customer BSVAR,"Lieber, Justin",France,"Davis, Sara",CEO,Shipper ZHISN,Destination SNPXM,2021-09-20,2021-10-04,24.69,268.8,293.49
+Customer BSVAR,"Lieber, Justin",France,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination FVRGC,2022-09-26,2022-10-24,4.4,63,67.4
+Customer BSVAR,"Lieber, Justin",France,"King, Russell",Sales Representative,Shipper ETYNR,Destination SNPXM,2022-07-24,2022-08-21,1.85,424,425.85
+Customer BSVAR,"Lieber, Justin",France,"King, Russell",Sales Representative,Shipper GVSUA,Destination JNSYI,2023-02-16,2023-03-16,32.76,860.1,892.86
+Customer CCFIZ,"Vasa, Petr",Poland,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 91-A,2023-04-03,2023-04-17,20.31,686,706.31
+Customer CCFIZ,"Vasa, Petr",Poland,"Davis, Sara",CEO,Shipper ZHISN,Ship to 91-A,2021-12-05,2022-01-02,3.94,459,462.94
+Customer CCFIZ,"Vasa, Petr",Poland,"Davis, Sara",CEO,Shipper ZHISN,Ship to 91-C,2022-12-23,2023-01-20,23.79,399.85,423.64
+Customer CCFIZ,"Vasa, Petr",Poland,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 91-A,2023-02-04,2023-03-04,12.04,160,172.04
+Customer CCFIZ,"Vasa, Petr",Poland,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 91-B,2023-04-23,2023-05-21,8.72,591.6,600.32
+Customer CCFIZ,"Vasa, Petr",Poland,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 91-B,2023-02-25,2023-03-11,26.29,427.5,453.79
+Customer CCFIZ,"Vasa, Petr",Poland,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 91-B,2022-07-25,2022-08-22,80.65,808,888.65
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 68-A,2023-05-06,2023-06-03,6.19,498.1,504.29
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Davis, Sara",CEO,Shipper GVSUA,Ship to 68-B,2022-05-14,2022-05-28,78.85,1823.8,1902.65
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 68-A,2023-03-16,2023-04-27,30.85,458.755,489.605
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Ship to 68-A,2021-07-12,2021-08-09,148.33,2490.5,2638.83
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 68-A,2022-09-12,2022-10-10,232.42,4666.94,4899.36
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 68-A,2023-04-17,2023-05-15,84.74,3232.8,3317.54
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 68-A,2022-11-24,2022-12-22,130.79,1631.484,1762.274
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 68-C,2022-11-28,2022-12-26,138.17,1644.6,1782.77
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 68-A,2022-01-20,2022-02-17,137.35,2097.6,2234.95
+Customer CCKOT,"Myrcha, Jacek",Switzerland,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 68-B,2023-03-06,2023-03-20,13.6,799.2,812.8
+Customer CQRAA,"Duerr, Bernard",Italy,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 49-C,2022-03-06,2022-04-03,4.93,235.2,240.13
+Customer CQRAA,"Duerr, Bernard",Italy,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 49-A,2022-08-18,2022-09-15,47.46,1326.225,1373.685
+Customer CQRAA,"Duerr, Bernard",Italy,"Davis, Sara",CEO,Shipper ETYNR,Ship to 49-B,2023-03-16,2023-04-13,2.5,110,112.5
+Customer CQRAA,"Duerr, Bernard",Italy,"Davis, Sara",CEO,Shipper GVSUA,Ship to 49-A,2021-08-07,2021-09-04,26.93,291.84,318.77
+Customer CQRAA,"Duerr, Bernard",Italy,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 49-A,2021-09-09,2021-10-07,17.68,608,625.68
+Customer CQRAA,"Duerr, Bernard",Italy,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 49-A,2023-03-10,2023-04-07,76.33,637.5,713.83
+Customer CQRAA,"Duerr, Bernard",Italy,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 49-B,2022-01-03,2022-01-31,155.97,1591.25,1747.22
+Customer CQRAA,"Duerr, Bernard",Italy,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 49-B,2023-01-07,2023-02-04,65.48,833,898.48
+Customer CQRAA,"Duerr, Bernard",Italy,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 49-A,2022-12-18,2023-01-15,70.09,1488,1558.09
+Customer CQRAA,"Duerr, Bernard",Italy,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 49-B,2022-11-25,2022-12-23,2.38,55.2,57.58
+Customer CYZTN,"Grisso, Geoff",Sweden,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination YCMPK,2023-03-17,2023-04-14,3.26,74.4,77.66
+Customer CYZTN,"Grisso, Geoff",Sweden,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination YCMPK,2023-04-27,2023-05-25,59.41,810,869.41
+Customer CYZTN,"Grisso, Geoff",Sweden,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination KBSBN,2022-05-12,2022-06-09,188.04,2222.2,2410.24
+Customer CYZTN,"Grisso, Geoff",Sweden,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination NCKKO,2023-01-09,2023-02-06,1.23,250.8,252.03
+Customer CYZTN,"Grisso, Geoff",Sweden,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination YCMPK,2022-02-28,2022-03-28,16.27,176.1,192.37
+Customer CYZTN,"Grisso, Geoff",Sweden,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination NCKKO,2023-03-26,2023-04-23,208.5,2233,2441.5
+Customer CYZTN,"Grisso, Geoff",Sweden,"Davis, Sara",CEO,Shipper GVSUA,Destination NCKKO,2023-02-23,2023-03-23,44.15,863.43,907.58
+Customer CYZTN,"Grisso, Geoff",Sweden,"Funk, Don","Vice President, Sales",Shipper ETYNR,Destination YCMPK,2022-06-06,2022-07-04,242.21,2844.5,3086.71
+Customer CYZTN,"Grisso, Geoff",Sweden,"Funk, Don","Vice President, Sales",Shipper ETYNR,Destination YCMPK,2023-04-06,2023-05-04,197.3,2769,2966.3
+Customer CYZTN,"Grisso, Geoff",Sweden,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination NCKKO,2021-10-11,2021-11-08,63.36,1810,1873.36
+Customer CYZTN,"Grisso, Geoff",Sweden,"King, Russell",Sales Representative,Shipper GVSUA,Destination KBSBN,2023-02-10,2023-03-24,88.01,1500,1588.01
+Customer CYZTN,"Grisso, Geoff",Sweden,"King, Russell",Sales Representative,Shipper ZHISN,Destination NCKKO,2023-04-01,2023-04-29,8.81,4895.4375,4904.2475
+Customer CYZTN,"Grisso, Geoff",Sweden,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination NCKKO,2022-02-03,2022-03-03,17.92,321.12,339.04
+Customer CYZTN,"Grisso, Geoff",Sweden,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination YCMPK,2022-12-02,2022-12-30,328.74,4337,4665.74
+Customer CYZTN,"Grisso, Geoff",Sweden,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Destination KBSBN,2021-12-10,2022-01-07,5.44,103.2,108.64
+Customer CYZTN,"Grisso, Geoff",Sweden,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination KBSBN,2022-12-11,2022-12-25,48.2,868.75,916.95
+Customer CYZTN,"Grisso, Geoff",Sweden,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination YCMPK,2023-03-27,2023-05-08,1.26,248,249.26
+Customer CYZTN,"Grisso, Geoff",Sweden,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination KBSBN,2022-10-14,2022-11-11,152.3,2545,2697.3
+Customer CYZTN,"Grisso, Geoff",Sweden,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination KBSBN,2021-07-24,2021-08-21,3.67,695.625,699.295
+Customer DVFMB,"Szymczak, Radosław",United States,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 48-C,2023-02-12,2023-03-12,0.53,36,36.53
+Customer DVFMB,"Szymczak, Radosław",United States,"Davis, Sara",CEO,Shipper ETYNR,Ship to 48-B,2022-09-11,2022-10-09,26.31,1295,1321.31
+Customer DVFMB,"Szymczak, Radosław",United States,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 48-B,2021-09-17,2021-10-15,0.56,424,424.56
+Customer DVFMB,"Szymczak, Radosław",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 48-C,2022-09-09,2022-10-07,1.28,125,126.28
+Customer DVFMB,"Szymczak, Radosław",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 48-B,2023-04-13,2023-05-11,11.65,1575,1586.65
+Customer DVFMB,"Szymczak, Radosław",United States,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 48-C,2022-05-21,2022-06-18,24.91,417.2,442.11
+Customer DVFMB,"Szymczak, Radosław",United States,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 48-B,2021-09-30,2021-10-28,12.69,288,300.69
+Customer DVFMB,"Szymczak, Radosław",United States,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 48-B,2023-02-03,2023-03-17,1.93,98.4,100.33
+Customer EEALV,"Culp, Scott",Canada,"Davis, Sara",CEO,Shipper GVSUA,Destination XJIBQ,2023-04-16,2023-05-14,52.52,877.725,930.245
+Customer EEALV,"Culp, Scott",Canada,"Davis, Sara",CEO,Shipper ZHISN,Destination OLSSJ,2023-03-25,2023-04-22,32.27,717.5,749.77
+Customer EEALV,"Culp, Scott",Canada,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination XJIBQ,2022-01-10,2022-02-07,23.65,966.8,990.45
+Customer EEALV,"Culp, Scott",Canada,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination XJIBQ,2023-03-27,2023-04-24,14.01,1014,1028.01
+Customer EEALV,"Culp, Scott",Canada,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination OLSSJ,2023-03-13,2023-04-10,74.44,4422,4496.44
+Customer EEALV,"Culp, Scott",Canada,"King, Russell",Sales Representative,Shipper ZHISN,Destination XJIBQ,2023-04-24,2023-05-22,24.12,525,549.12
+Customer EEALV,"Culp, Scott",Canada,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination XJIBQ,2022-04-01,2022-04-29,62.89,851.2,914.09
+Customer EEALV,"Culp, Scott",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination LPHSI,2022-11-14,2022-12-12,243.73,3118,3361.73
+Customer EEALV,"Culp, Scott",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination OLSSJ,2022-01-10,2022-02-07,2.4,802,804.4
+Customer EEALV,"Culp, Scott",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination OLSSJ,2023-03-02,2023-03-30,48.83,1447.5,1496.33
+Customer EEALV,"Culp, Scott",Canada,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination OLSSJ,2021-12-20,2022-01-17,47.42,1832.8,1880.22
+Customer EEALV,"Culp, Scott",Canada,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination OLSSJ,2022-01-30,2022-02-13,44.17,1892.25,1936.42
+Customer EEALV,"Culp, Scott",Canada,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination LPHSI,2023-04-23,2023-05-21,70.58,1309.5,1380.08
+Customer EEALV,"Culp, Scott",Canada,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination XJIBQ,2023-03-12,2023-03-26,52.92,1025.325,1078.245
+Customer EFFTC,"Owens, Ron",France,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination POAEW,2023-01-29,2023-02-26,52.51,649,701.51
+Customer EFFTC,"Owens, Ron",France,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination MVTWX,2023-03-24,2023-04-21,0.02,251.5,251.52
+Customer EFFTC,"Owens, Ron",France,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination WWJLO,2023-03-05,2023-04-02,19.79,800,819.79
+Customer EFFTC,"Owens, Ron",France,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination WWJLO,2023-03-24,2023-04-21,15.17,291.55,306.72
+Customer ENQZT,"Elliott, Patrick",France,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 85-C,2021-09-02,2021-09-30,1.15,121.6,122.75
+Customer ENQZT,"Elliott, Patrick",France,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 85-C,2022-11-11,2022-12-09,7.79,139.8,147.59
+Customer ENQZT,"Elliott, Patrick",France,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 85-C,2022-11-12,2022-12-10,11.08,240,251.08
+Customer ENQZT,"Elliott, Patrick",France,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 85-B,2021-07-04,2021-08-01,32.38,440,472.38
+Customer ENQZT,"Elliott, Patrick",France,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 85-B,2021-08-06,2021-09-03,6.01,538.6,544.61
+Customer EYHKM,"Veninga, Tjeerd",United States,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 82-B,2022-06-23,2022-08-04,25.41,569,594.41
+Customer EYHKM,"Veninga, Tjeerd",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 82-A,2022-06-19,2022-07-17,37.6,764.3,801.9
+Customer EYHKM,"Veninga, Tjeerd",United States,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 82-B,2023-01-08,2023-02-05,7,237.9,244.9
+Customer FAPSM,"Wickham, Jim",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 79-B,2023-03-23,2023-04-20,62.22,910.4,972.62
+Customer FAPSM,"Wickham, Jim",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 79-A,2022-02-06,2022-03-06,8.24,454,462.24
+Customer FAPSM,"Wickham, Jim",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 79-A,2022-05-26,2022-06-23,1.43,240.1,241.53
+Customer FAPSM,"Wickham, Jim",Germany,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 79-C,2022-07-23,2022-08-20,27.79,1064,1091.79
+Customer FAPSM,"Wickham, Jim",Germany,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 79-C,2021-07-05,2021-08-16,11.61,1863.4,1875.01
+Customer FAPSM,"Wickham, Jim",Germany,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 79-C,2022-02-14,2022-03-14,14.68,246.24,260.92
+Customer FEVNN,"Sun, Nate",Germany,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination YPUYI,2023-04-20,2023-05-18,149.47,1692,1841.47
+Customer FEVNN,"Sun, Nate",Germany,"Davis, Sara",CEO,Shipper ETYNR,Destination BJCXA,2023-05-04,2023-05-18,7.98,86.85,94.83
+Customer FEVNN,"Sun, Nate",Germany,"Davis, Sara",CEO,Shipper GVSUA,Destination BJCXA,2023-01-09,2023-02-06,79.25,1030.76,1110.01
+Customer FEVNN,"Sun, Nate",Germany,"King, Russell",Sales Representative,Shipper ETYNR,Destination AJTHX,2022-12-25,2023-01-22,33.35,420,453.35
+Customer FEVNN,"Sun, Nate",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination AJTHX,2021-12-23,2022-01-20,5.45,86.4,91.85
+Customer FEVNN,"Sun, Nate",Germany,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination BJCXA,2021-11-26,2021-12-24,30.54,447.2,477.74
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination KPVYJ,2021-12-12,2022-01-09,35.03,1313.82,1348.85
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Davis, Sara",CEO,Shipper GVSUA,Destination DGKOU,2022-06-12,2022-07-10,33.97,2519,2552.97
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination DGKOU,2022-11-11,2022-12-09,44.1,997,1041.1
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination KPVYJ,2022-09-30,2022-10-28,296.43,4960.9,5257.33
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination ATSOA,2022-08-27,2022-10-08,142.33,1446,1588.33
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Funk, Don","Vice President, Sales",Shipper ETYNR,Destination DGKOU,2023-02-26,2023-03-26,580.91,6200.55,6781.46
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination ATSOA,2023-03-30,2023-04-27,91.51,2023.38,2114.89
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination DGKOU,2022-04-24,2022-05-22,62.78,2381.05,2443.83
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"King, Russell",Sales Representative,Shipper ETYNR,Destination ATSOA,2021-10-22,2021-11-19,42.11,2036.16,2078.27
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"King, Russell",Sales Representative,Shipper ZHISN,Destination ATSOA,2022-09-09,2022-10-07,17.55,562.6,580.15
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination DGKOU,2022-01-29,2022-03-12,56.63,1441.375,1498.005
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination DGKOU,2023-02-19,2023-03-19,603.54,10835.24,11438.78
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination KPVYJ,2023-04-30,2023-05-28,81.73,1342.95,1424.68
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination ATSOA,2021-09-19,2021-10-17,47.3,1762,1809.3
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination KPVYJ,2022-10-21,2022-11-18,89.93,1233.48,1323.41
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination KPVYJ,2021-12-05,2022-01-02,124.12,1366.4,1490.52
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination ATSOA,2021-09-05,2021-10-03,168.22,2645,2813.22
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination ATSOA,2022-04-11,2022-05-09,16.74,2048.5,2065.24
+Customer FRXZL,"Óskarsson, Jón Harry",Ireland,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination KPVYJ,2022-10-13,2022-10-27,220.31,2864.5,3084.81
+Customer FVXPQ,"Yuksel, Ayca",Venezuela,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination QJVQH,2021-07-30,2021-08-27,66.29,1101.2,1167.49
+Customer FVXPQ,"Yuksel, Ayca",Venezuela,"Davis, Sara",CEO,Shipper ZHISN,Destination FQJFJ,2022-12-18,2023-01-15,1.51,387.5,389.01
+Customer GCJSG,"Mallit, Ken",United Kingdom,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 53-C,2022-11-24,2022-12-22,1.39,252,253.39
+Customer GCJSG,"Mallit, Ken",United Kingdom,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 53-A,2022-04-24,2022-05-22,32.07,352,384.07
+Customer GCJSG,"Mallit, Ken",United Kingdom,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 53-C,2023-04-29,2023-05-27,4.13,45,49.13
+Customer GLLAG,"Song, Lolan",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination DKMQA,2022-02-25,2022-04-08,8.12,557.6,565.72
+Customer GLLAG,"Song, Lolan",Germany,"Davis, Sara",CEO,Shipper ETYNR,Destination RMBHM,2022-08-13,2022-09-10,32.35,903.6,935.95
+Customer GLLAG,"Song, Lolan",Germany,"Davis, Sara",CEO,Shipper ZHISN,Destination DKMQA,2022-05-20,2022-06-17,10.95,469.11,480.06
+Customer GLLAG,"Song, Lolan",Germany,"Davis, Sara",CEO,Shipper ZHISN,Destination DKMQA,2022-10-27,2022-11-24,170.88,3463,3633.88
+Customer GLLAG,"Song, Lolan",Germany,"Davis, Sara",CEO,Shipper ZHISN,Destination RMBHM,2021-10-09,2021-10-23,64.86,1497,1561.86
+Customer GLLAG,"Song, Lolan",Germany,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination DKMQA,2022-04-15,2022-05-13,21.19,415.8,436.99
+Customer GLLAG,"Song, Lolan",Germany,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination DKMQA,2023-01-23,2023-02-20,0.56,967.819,968.379
+Customer GLLAG,"Song, Lolan",Germany,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination RMBHM,2023-02-18,2023-03-18,77.78,5502.11,5579.89
+Customer GLLAG,"Song, Lolan",Germany,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination DKMQA,2022-12-26,2023-02-06,30.76,1553.5,1584.26
+Customer GLLAG,"Song, Lolan",Germany,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination DKMQA,2023-04-16,2023-05-14,29.59,2160,2189.59
+Customer GLLAG,"Song, Lolan",Germany,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination RMBHM,2022-02-25,2022-03-25,11.57,1584,1595.57
+Customer GLLAG,"Song, Lolan",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination RMBHM,2023-01-06,2023-01-20,306.07,10952.845,11258.915
+Customer GLLAG,"Song, Lolan",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination RMBHM,2022-03-07,2022-04-04,44.12,717.6,761.72
+Customer GLLAG,"Song, Lolan",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination RMBHM,2021-10-07,2021-11-04,4.88,164.4,169.28
+Customer GYBBY,"Birkby, Dana",United Kingdom,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination QKQNB,2022-02-04,2022-03-18,9.21,631.6,640.81
+Customer GYBBY,"Birkby, Dana",United Kingdom,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination ARRMM,2022-03-03,2022-03-31,6.17,156,162.17
+Customer GYBBY,"Birkby, Dana",United Kingdom,"King, Russell",Sales Representative,Shipper ETYNR,Destination QKQNB,2023-01-23,2023-02-20,38.24,931.5,969.74
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 4-B,2021-12-16,2022-01-13,34.24,899,933.24
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Davis, Sara",CEO,Shipper ETYNR,Ship to 4-B,2022-06-04,2022-07-02,72.97,2142.9,2215.87
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Davis, Sara",CEO,Shipper ETYNR,Ship to 4-C,2022-02-21,2022-03-21,25.36,407.7,433.06
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Davis, Sara",CEO,Shipper ETYNR,Ship to 4-C,2022-11-17,2022-12-15,23.72,319.2,342.92
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 4-A,2023-04-10,2023-05-08,33.8,491.5,525.3
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 4-B,2023-03-16,2023-03-30,23.72,4441.25,4464.97
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 4-B,2022-12-08,2023-01-05,146.32,1477,1623.32
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 4-B,2022-12-24,2023-01-21,4.52,191.1,195.62
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 4-A,2023-03-03,2023-03-31,29.61,390,419.61
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 4-C,2023-02-02,2023-03-02,3.04,282,285.04
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 4-A,2022-10-16,2022-10-30,21.74,1641,1662.74
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 4-C,2022-11-14,2022-11-28,10.96,228,238.96
+Customer HFBZG,"Cunningham, Conor",United Kingdom,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 4-A,2021-11-15,2021-12-13,41.95,480,521.95
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 5-B,2023-01-28,2023-02-25,188.85,2048.2125,2237.0625
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 5-C,2021-08-12,2021-09-09,92.69,1488.8,1581.49
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Davis, Sara",CEO,Shipper ETYNR,Ship to 5-A,2022-05-01,2022-05-29,244.79,3192.65,3437.44
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Davis, Sara",CEO,Shipper ETYNR,Ship to 5-A,2022-08-11,2022-09-08,138.69,1503.6,1642.29
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Davis, Sara",CEO,Shipper ETYNR,Ship to 5-B,2022-10-01,2022-10-29,13.42,472.5,485.92
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Davis, Sara",CEO,Shipper ZHISN,Ship to 5-A,2022-11-07,2022-12-05,110.11,1459,1569.11
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 5-C,2022-09-17,2022-10-01,95.75,3815.25,3911
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Ship to 5-A,2023-01-16,2023-02-13,13.32,1064.5,1077.82
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 5-B,2021-08-14,2021-09-11,8.98,613.2,622.18
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 5-A,2023-03-04,2023-04-01,151.52,1835.7,1987.22
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 5-B,2022-06-18,2022-07-16,116.43,1501.085,1617.515
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 5-A,2022-02-13,2022-03-13,9.3,174.9,184.2
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 5-A,2022-12-16,2023-01-13,6.79,96.5,103.29
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 5-B,2022-02-12,2022-03-12,3.5,1031.7,1035.2
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 5-C,2021-12-16,2022-01-13,168.64,2222.4,2391.04
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 5-B,2023-02-03,2023-03-03,109.11,1096.2,1205.31
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 5-C,2022-09-02,2022-09-30,55.26,601.83,657.09
+Customer HGVLZ,"Higginbotham, Tom",Sweden,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 5-A,2023-02-06,2023-03-06,32.37,709.55,741.92
+Customer IAIJK,"Zaki, Amr",Canada,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 42-A,2022-08-05,2022-09-02,0.94,57.5,58.44
+Customer IAIJK,"Zaki, Amr",Canada,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 42-A,2023-01-01,2023-01-29,4.33,187,191.33
+Customer IAIJK,"Zaki, Amr",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 42-C,2022-04-03,2022-05-01,4.65,278,282.65
+Customer IBVRG,"Zhang, Frank",Brazil,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination JPAIY,2022-12-09,2023-01-06,5.32,236.25,241.57
+Customer IBVRG,"Zhang, Frank",Brazil,"Davis, Sara",CEO,Shipper ETYNR,Destination JPAIY,2023-03-27,2023-04-24,193.37,15810,16003.37
+Customer IBVRG,"Zhang, Frank",Brazil,"Davis, Sara",CEO,Shipper GVSUA,Destination JPAIY,2022-10-02,2022-10-30,15.8,862.5,878.3
+Customer IBVRG,"Zhang, Frank",Brazil,"Davis, Sara",CEO,Shipper GVSUA,Destination SCQXA,2023-02-13,2023-03-13,4.99,3127.5,3132.49
+Customer IBVRG,"Zhang, Frank",Brazil,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination SCQXA,2023-04-14,2023-05-12,6.27,1402,1408.27
+Customer IBVRG,"Zhang, Frank",Brazil,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination SCQXA,2022-05-19,2022-06-16,68.65,1946.52,2015.17
+Customer IBVRG,"Zhang, Frank",Brazil,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination JPAIY,2021-07-10,2021-07-24,58.17,1444.8,1502.97
+Customer IBVRG,"Zhang, Frank",Brazil,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination DPCVR,2023-04-27,2023-05-25,67.26,1332,1399.26
+Customer IBVRG,"Zhang, Frank",Brazil,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination JPAIY,2023-03-04,2023-04-01,2.27,475.15,477.42
+Customer IBVRG,"Zhang, Frank",Brazil,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination DPCVR,2023-02-24,2023-03-24,36.71,932.05,968.76
+Customer IBVRG,"Zhang, Frank",Brazil,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Destination DPCVR,2023-03-03,2023-03-31,62.74,742.5,805.24
+Customer IBVRG,"Zhang, Frank",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination DPCVR,2022-12-18,2023-01-15,124.98,1442.5,1567.48
+Customer IBVRG,"Zhang, Frank",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination SCQXA,2021-07-08,2021-08-05,65.83,1552.6,1618.43
+Customer IBVRG,"Zhang, Frank",Brazil,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination DPCVR,2022-08-26,2022-09-23,12.41,1535,1547.41
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 63-B,2023-03-19,2023-04-16,275.79,3584,3859.79
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 63-A,2023-01-21,2023-02-04,212.98,3812.7,4025.68
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 63-A,2022-10-06,2022-11-03,398.36,4825,5223.36
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 63-B,2021-08-21,2021-09-18,229.24,3016,3245.24
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Davis, Sara",CEO,Shipper ETYNR,Ship to 63-B,2021-08-20,2021-09-17,76.83,1743.36,1820.19
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Davis, Sara",CEO,Shipper ETYNR,Ship to 63-C,2021-11-22,2021-12-20,183.17,2046.24,2229.41
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Davis, Sara",CEO,Shipper ETYNR,Ship to 63-C,2022-12-22,2023-01-19,42.7,731.5,774.2
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Davis, Sara",CEO,Shipper GVSUA,Ship to 63-A,2023-04-01,2023-04-29,38.51,2296,2334.51
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 63-C,2022-11-18,2022-12-16,3.52,4529.8,4533.32
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 63-A,2021-09-24,2021-10-22,1.96,182.4,184.36
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 63-B,2021-11-04,2021-12-02,249.06,2924.8,3173.86
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 63-B,2022-10-03,2022-11-14,810.05,10164.8,10974.85
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 63-A,2023-02-02,2023-02-16,348.14,16387.5,16735.64
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 63-B,2022-04-23,2022-05-07,204.47,9921.3,10125.77
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 63-A,2022-07-03,2022-07-31,194.67,3120,3314.67
+Customer IRRVL,"Veronesi, Giorgio",Germany,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 63-B,2022-05-05,2022-06-02,41.9,1503,1544.9
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 63-C,2023-03-10,2023-04-07,31.89,2731.875,2763.765
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 63-B,2023-04-14,2023-05-12,297.18,6306.24,6603.42
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 63-A,2021-08-05,2021-09-02,76.07,2037.28,2113.35
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 63-A,2022-12-04,2023-01-01,42.74,1515.6,1558.34
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 63-C,2022-05-19,2022-06-16,1007.64,10191.7,11199.34
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 63-C,2022-05-27,2022-06-10,171.24,3554.275,3725.515
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 63-A,2022-10-29,2022-11-26,48.92,923.875,972.795
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 63-C,2023-04-02,2023-04-30,1.12,560,561.12
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 63-B,2022-01-17,2022-02-14,17.55,1814.8,1832.35
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 63-B,2023-02-10,2023-03-10,46.69,1539,1585.69
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 63-C,2022-09-05,2022-10-03,364.15,4464.6,4828.75
+Customer IRRVL,"Veronesi, Giorgio",Germany,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 63-C,2022-02-19,2022-03-05,189.09,3849.66,4038.75
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 73-A,2022-06-03,2022-07-15,9.8,835.2,845
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 73-A,2022-09-15,2022-10-13,24.39,570,594.39
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 73-A,2023-05-06,2023-06-03,18.44,232.085,250.525
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 73-A,2021-10-29,2021-11-26,26.78,352.6,379.38
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 73-C,2022-08-22,2022-09-19,41.89,696,737.89
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 73-A,2022-12-29,2023-01-26,257.26,2942.8125,3200.0725
+Customer JMIKW,"Gonzalez, Nuria",Denmark,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 73-C,2022-01-16,2022-02-13,70.29,11188.4,11258.69
+Customer JUWXK,"Richardson, Shawn",Brazil,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination HQZHO,2021-08-27,2021-09-24,79.7,2169,2248.7
+Customer JUWXK,"Richardson, Shawn",Brazil,"Davis, Sara",CEO,Shipper ETYNR,Destination EVHYA,2023-03-23,2023-04-20,0.21,108,108.21
+Customer JUWXK,"Richardson, Shawn",Brazil,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination EVHYA,2023-04-22,2023-05-06,29.99,405.75,435.74
+Customer JUWXK,"Richardson, Shawn",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination EVHYA,2022-04-02,2022-04-30,65.99,912,977.99
+Customer JUWXK,"Richardson, Shawn",Brazil,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination GGSQD,2022-03-06,2022-04-03,11.93,216,227.93
+Customer JYPSC,"Goldin, Maxim",Belgium,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 50-A,2023-03-26,2023-04-23,32.82,1303.195,1336.015
+Customer JYPSC,"Goldin, Maxim",Belgium,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 50-A,2023-02-19,2023-03-19,32.45,750.5,782.95
+Customer JYPSC,"Goldin, Maxim",Belgium,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 50-C,2023-04-07,2023-05-05,44.84,295.38,340.22
+Customer JYPSC,"Goldin, Maxim",Belgium,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 50-B,2022-05-07,2022-06-04,66.69,946,1012.69
+Customer JYPSC,"Goldin, Maxim",Belgium,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 50-B,2022-08-28,2022-09-25,6.2,1434,1440.2
+Customer JYPSC,"Goldin, Maxim",Belgium,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 50-A,2023-02-17,2023-03-17,120.27,2090,2210.27
+Customer JYPSC,"Goldin, Maxim",Belgium,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 50-B,2022-12-01,2022-12-29,155.64,2917,3072.64
+Customer KBUDE,"Strome, David",Mexico,"Davis, Sara",CEO,Shipper ZHISN,Destination LANNN,2022-09-22,2022-10-20,4.03,813.365,817.395
+Customer KBUDE,"Strome, David",Mexico,"King, Russell",Sales Representative,Shipper GVSUA,Destination FQFLS,2022-04-15,2022-05-13,47.45,749.0625,796.5125
+Customer KBUDE,"Strome, David",Mexico,"King, Russell",Sales Representative,Shipper ZHISN,Destination LANNN,2022-06-19,2022-07-17,84.84,2082,2166.84
+Customer KBUDE,"Strome, David",Mexico,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination FQFLS,2021-11-27,2021-12-25,22,403.2,425.2
+Customer KBUDE,"Strome, David",Mexico,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination FQFLS,2023-01-28,2023-02-25,58.43,660,718.43
+Customer KBUDE,"Strome, David",Mexico,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination RTGIS,2022-09-25,2022-10-23,36.13,375.5,411.63
+Customer KBUDE,"Strome, David",Mexico,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination FQFLS,2022-05-13,2022-06-10,15.64,1940.85,1956.49
+Customer KIDPX,"Russo, Giuseppe",Brazil,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination RNSMS,2021-12-18,2022-01-01,13.99,166,179.99
+Customer KIDPX,"Russo, Giuseppe",Brazil,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination SSYXZ,2022-01-14,2022-02-11,21.48,224.83,246.31
+Customer KIDPX,"Russo, Giuseppe",Brazil,"King, Russell",Sales Representative,Shipper ETYNR,Destination RNSMS,2022-04-21,2022-05-19,3.53,525.3,528.83
+Customer KIDPX,"Russo, Giuseppe",Brazil,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination SSYXZ,2022-06-26,2022-07-24,3.01,310,313.01
+Customer KIDPX,"Russo, Giuseppe",Brazil,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Destination SSYXZ,2022-08-29,2022-09-26,176.81,1779.2,1956.01
+Customer KIDPX,"Russo, Giuseppe",Brazil,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination KKELL,2021-11-06,2021-12-04,3.1,814.42,817.52
+Customer KIDPX,"Russo, Giuseppe",Brazil,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination KKELL,2022-10-31,2022-11-28,10.83,287.8,298.63
+Customer KSLQF,"Grossman, Seth",Spain,"Davis, Sara",CEO,Shipper ETYNR,Destination IIYDD,2023-02-16,2023-03-16,51.87,605,656.87
+Customer KSLQF,"Grossman, Seth",Spain,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination WVLDH,2023-04-08,2023-05-06,59.11,616.5,675.61
+Customer KSLQF,"Grossman, Seth",Spain,"King, Russell",Sales Representative,Shipper ETYNR,Destination IIYDD,2021-09-11,2021-10-09,107.83,1117.8,1225.63
+Customer KSLQF,"Grossman, Seth",Spain,"King, Russell",Sales Representative,Shipper GVSUA,Destination GGQIR,2023-04-21,2023-05-19,3.2,60,63.2
+Customer KSLQF,"Grossman, Seth",Spain,"King, Russell",Sales Representative,Shipper ZHISN,Destination GGQIR,2022-05-28,2022-06-25,4.32,683.3,687.62
+Customer KSLQF,"Grossman, Seth",Spain,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination IIYDD,2023-02-26,2023-03-26,38.19,858,896.19
+Customer KSLQF,"Grossman, Seth",Spain,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination GGQIR,2023-03-13,2023-04-10,23.39,2362.25,2385.64
+Customer KSLQF,"Grossman, Seth",Spain,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Destination GGQIR,2023-02-05,2023-03-05,175.32,2058.46,2233.78
+Customer KSLQF,"Grossman, Seth",Spain,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Destination IIYDD,2023-02-06,2023-03-06,19.58,310,329.58
+Customer KSLQF,"Grossman, Seth",Spain,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination IIYDD,2022-08-12,2022-09-09,85.46,2775.05,2860.51
+Customer KZQZT,"Wood, Robin",United States,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 55-B,2023-04-20,2023-06-01,40.32,539.4,579.72
+Customer KZQZT,"Wood, Robin",United States,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 55-B,2021-09-13,2021-10-11,257.62,3741.3,3998.92
+Customer KZQZT,"Wood, Robin",United States,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 55-C,2022-10-16,2022-11-13,135.63,1893,2028.63
+Customer KZQZT,"Wood, Robin",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 55-B,2022-09-24,2022-10-22,26.61,1261.875,1288.485
+Customer KZQZT,"Wood, Robin",United States,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 55-B,2023-01-01,2023-01-29,45.53,1411,1456.53
+Customer KZQZT,"Wood, Robin",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 55-B,2022-07-09,2022-08-06,5.24,565.5,570.74
+Customer KZQZT,"Wood, Robin",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 55-C,2022-02-10,2022-03-24,73.02,1755,1828.02
+Customer KZQZT,"Wood, Robin",United States,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 55-A,2023-01-27,2023-02-24,170.97,2227.8875,2398.8575
+Customer KZQZT,"Wood, Robin",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 55-C,2021-10-25,2021-11-22,84.21,934.5,1018.71
+Customer KZQZT,"Wood, Robin",United States,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 55-B,2023-03-20,2023-04-17,144.38,848,992.38
+Customer LCOUJ,"Navarro, Tomás",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 71-C,2022-07-18,2022-08-15,48.77,1483,1531.77
+Customer LCOUJ,"Navarro, Tomás",United States,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 71-A,2022-10-29,2022-12-10,74.58,1570,1644.58
+Customer LCOUJ,"Navarro, Tomás",United States,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 71-B,2022-02-20,2022-03-20,140.26,2018.5,2158.76
+Customer LCOUJ,"Navarro, Tomás",United States,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 71-B,2022-08-11,2022-09-22,107.46,1185.75,1293.21
+Customer LCOUJ,"Navarro, Tomás",United States,"Davis, Sara",CEO,Shipper ETYNR,Ship to 71-A,2022-07-28,2022-08-25,544.08,6375,6919.08
+Customer LCOUJ,"Navarro, Tomás",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 71-A,2023-02-18,2023-03-18,116.13,2753.1,2869.23
+Customer LCOUJ,"Navarro, Tomás",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 71-C,2022-10-22,2022-11-19,167.05,2827.9,2994.95
+Customer LCOUJ,"Navarro, Tomás",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 71-C,2023-05-01,2023-05-29,30.09,4330.4,4360.49
+Customer LCOUJ,"Navarro, Tomás",United States,"Davis, Sara",CEO,Shipper ZHISN,Ship to 71-B,2021-12-25,2022-01-22,126.56,2556.95,2683.51
+Customer LCOUJ,"Navarro, Tomás",United States,"Davis, Sara",CEO,Shipper ZHISN,Ship to 71-B,2023-03-30,2023-04-27,211.22,1809.75,2020.97
+Customer LCOUJ,"Navarro, Tomás",United States,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 71-C,2021-10-08,2021-11-05,214.27,5275.715,5489.985
+Customer LCOUJ,"Navarro, Tomás",United States,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 71-A,2022-09-04,2022-10-02,352.69,4371.6,4724.29
+Customer LCOUJ,"Navarro, Tomás",United States,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 71-B,2023-03-27,2023-04-24,657.54,720.9,1378.44
+Customer LCOUJ,"Navarro, Tomás",United States,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 71-A,2023-01-05,2023-02-02,14.62,40,54.62
+Customer LCOUJ,"Navarro, Tomás",United States,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 71-C,2021-12-30,2022-01-27,89.16,2505.6,2594.76
+Customer LCOUJ,"Navarro, Tomás",United States,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 71-A,2023-03-11,2023-04-08,400.81,4011.75,4412.56
+Customer LCOUJ,"Navarro, Tomás",United States,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 71-C,2023-04-17,2023-05-15,830.75,12615.05,13445.8
+Customer LCOUJ,"Navarro, Tomás",United States,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 71-A,2022-09-23,2022-10-21,388.98,5256.5,5645.48
+Customer LCOUJ,"Navarro, Tomás",United States,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 71-B,2022-11-20,2022-12-18,232.55,2196,2428.55
+Customer LCOUJ,"Navarro, Tomás",United States,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 71-C,2022-10-10,2022-11-07,65.1,1638.4,1703.5
+Customer LCOUJ,"Navarro, Tomás",United States,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 71-A,2022-10-21,2022-12-02,52.41,4451.7,4504.11
+Customer LCOUJ,"Navarro, Tomás",United States,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 71-C,2022-07-22,2022-08-19,200.24,6475.4,6675.64
+Customer LCOUJ,"Navarro, Tomás",United States,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 71-A,2022-10-22,2022-11-19,24.49,2205.75,2230.24
+Customer LCOUJ,"Navarro, Tomás",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 71-B,2022-02-10,2022-03-10,86.53,4924.135,5010.665
+Customer LCOUJ,"Navarro, Tomás",United States,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 71-A,2023-04-06,2023-05-04,141.16,1811.1,1952.26
+Customer LCOUJ,"Navarro, Tomás",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 71-A,2023-01-22,2023-02-05,487.57,4931.92,5419.49
+Customer LCOUJ,"Navarro, Tomás",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 71-B,2023-02-11,2023-03-11,23.1,892.64,915.74
+Customer LCOUJ,"Navarro, Tomás",United States,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 71-C,2023-04-17,2023-05-15,227.22,2393.5,2620.72
+Customer LCOUJ,"Navarro, Tomás",United States,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 71-B,2022-11-27,2022-12-25,8.19,3082,3090.19
+Customer LCOUJ,"Navarro, Tomás",United States,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 71-A,2022-04-18,2022-05-16,367.63,4707.54,5075.17
+Customer LCOUJ,"Navarro, Tomás",United States,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 71-B,2022-06-02,2022-06-30,252.49,2944.4,3196.89
+Customer LCYBZ,"Didcock, Cliff",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 77-B,2021-09-20,2021-10-18,17.52,336,353.52
+Customer LCYBZ,"Didcock, Cliff",United States,"Davis, Sara",CEO,Shipper ZHISN,Ship to 77-C,2023-04-01,2023-04-29,4.27,69.6,73.87
+Customer LCYBZ,"Didcock, Cliff",United States,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 77-A,2022-12-30,2023-01-27,237.34,2775,3012.34
+Customer LCYBZ,"Didcock, Cliff",United States,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 77-C,2022-10-17,2022-11-28,2.96,180.4,183.36
+Customer LHANT,"Voss, Florian",Italy,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 66-C,2022-02-12,2022-03-12,13.95,517.44,531.39
+Customer LHANT,"Voss, Florian",Italy,"Davis, Sara",CEO,Shipper ETYNR,Ship to 66-B,2022-09-03,2022-10-01,4.41,154.4,158.81
+Customer LHANT,"Voss, Florian",Italy,"Davis, Sara",CEO,Shipper GVSUA,Ship to 66-B,2022-06-09,2022-07-07,22.95,488.7,511.65
+Customer LHANT,"Voss, Florian",Italy,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 66-B,2022-07-02,2022-07-30,0.48,23.8,24.28
+Customer LHANT,"Voss, Florian",Italy,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Ship to 66-C,2023-03-11,2023-04-08,17.95,560,577.95
+Customer LHANT,"Voss, Florian",Italy,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 66-A,2023-04-09,2023-05-07,28.71,645,673.71
+Customer LHANT,"Voss, Florian",Italy,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 66-A,2022-11-03,2022-12-01,89.9,1624.5,1714.4
+Customer LHANT,"Voss, Florian",Italy,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 66-C,2022-01-28,2022-02-25,11.09,192,203.09
+Customer LHANT,"Voss, Florian",Italy,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 66-B,2023-01-02,2023-01-30,59.78,1692.8,1752.58
+Customer LHANT,"Voss, Florian",Italy,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 66-B,2023-02-26,2023-03-26,32.96,663.1,696.06
+Customer LHANT,"Voss, Florian",Italy,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 66-B,2023-04-30,2023-05-28,29.93,406.4,436.33
+Customer LHANT,"Voss, Florian",Italy,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 66-C,2021-08-23,2021-09-20,7.45,80.1,87.55
+Customer LJUCA,"Orton, Jon",United Kingdom,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination AXVHD,2021-10-01,2021-10-29,4.73,240.4,245.13
+Customer LJUCA,"Orton, Jon",United Kingdom,"Davis, Sara",CEO,Shipper ZHISN,Destination AXVHD,2022-03-13,2022-03-27,16.37,230.4,246.77
+Customer LJUCA,"Orton, Jon",United Kingdom,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Destination QVTLW,2023-01-13,2023-02-10,154.72,1764,1918.72
+Customer LJUCA,"Orton, Jon",United Kingdom,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination AXVHD,2022-12-26,2023-01-23,2.33,446.6,448.93
+Customer LJUCA,"Orton, Jon",United Kingdom,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination LMVGS,2021-10-03,2021-10-31,3.43,144,147.43
+Customer LJUCA,"Orton, Jon",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination AXVHD,2021-09-26,2021-10-24,41.76,516.8,558.56
+Customer LJUCA,"Orton, Jon",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination LMVGS,2022-08-05,2022-09-02,23.73,758.5,782.23
+Customer LJUCA,"Orton, Jon",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination QVTLW,2022-09-18,2022-10-16,0.9,45,45.9
+Customer LJUCA,"Orton, Jon",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination QVTLW,2022-11-20,2022-12-18,61.53,1080,1141.53
+Customer LJUCA,"Orton, Jon",United Kingdom,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination QVTLW,2023-03-06,2023-04-03,54.15,920.6,974.75
+Customer LOLJO,"Wang, Tony",Austria,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 59-A,2023-01-21,2023-02-18,25.22,735,760.22
+Customer LOLJO,"Wang, Tony",Austria,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 59-A,2023-04-27,2023-05-25,53.05,3055,3108.05
+Customer LOLJO,"Wang, Tony",Austria,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 59-B,2022-09-30,2022-10-28,96.5,1404.45,1500.95
+Customer LOLJO,"Wang, Tony",Austria,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 59-A,2021-12-24,2022-01-21,122.46,1440,1562.46
+Customer LOLJO,"Wang, Tony",Austria,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 59-B,2021-11-13,2021-12-11,360.63,8593.28,8953.91
+Customer LOLJO,"Wang, Tony",Austria,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 59-B,2022-07-11,2022-08-08,35.12,718.08,753.2
+Customer LOLJO,"Wang, Tony",Austria,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 59-C,2022-05-08,2022-06-05,339.22,4180,4519.22
+Customer LOLJO,"Wang, Tony",Austria,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 59-C,2022-01-27,2022-02-24,31.29,651,682.29
+Customer LOLJO,"Wang, Tony",Austria,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 59-C,2022-03-28,2022-04-25,5.29,439.2,444.49
+Customer LOLJO,"Wang, Tony",Austria,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 59-B,2022-11-19,2022-12-17,117.33,1912.85,2030.18
+Customer LVJSO,"Smith, Denise",United States,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination HOHCR,2022-09-08,2022-10-06,111.29,1701,1812.29
+Customer LVJSO,"Smith, Denise",United States,"Davis, Sara",CEO,Shipper ZHISN,Destination AWPJG,2021-12-25,2022-01-22,30.34,442,472.34
+Customer LVJSO,"Smith, Denise",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination HOHCR,2021-12-06,2022-01-03,20.12,338,358.12
+Customer LVJSO,"Smith, Denise",United States,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination AWPJG,2022-01-15,2022-02-12,0.2,102.4,102.6
+Customer LVJSO,"Smith, Denise",United States,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination HOHCR,2022-07-16,2022-08-13,45.13,479.8,524.93
+Customer LWGMD,"Gaffney, Lawrie",Argentina,"Davis, Sara",CEO,Shipper ETYNR,Ship to 64-C,2023-02-27,2023-03-27,63.77,686.7,750.47
+Customer LWGMD,"Gaffney, Lawrie",Argentina,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 64-B,2023-01-13,2023-01-27,90.85,932,1022.85
+Customer LWGMD,"Gaffney, Lawrie",Argentina,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 64-A,2022-02-17,2022-03-17,38.82,443.4,482.22
+Customer LWGMD,"Gaffney, Lawrie",Argentina,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 64-B,2022-10-24,2022-11-21,22.57,706,728.57
+Customer LWGMD,"Gaffney, Lawrie",Argentina,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 64-B,2023-04-13,2023-05-11,3.17,76,79.17
+Customer MDLWA,"Kolesnikova, Katerina",Spain,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination VPNNG,2021-11-28,2022-01-09,10.14,136,146.14
+Customer MDLWA,"Kolesnikova, Katerina",Spain,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination VPNNG,2023-02-13,2023-03-13,1.25,70,71.25
+Customer MDLWA,"Kolesnikova, Katerina",Spain,"Davis, Sara",CEO,Shipper GVSUA,Destination WOFLH,2023-03-05,2023-04-02,1.36,137.5,138.86
+Customer MDLWA,"Kolesnikova, Katerina",Spain,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination VPNNG,2022-06-13,2022-07-11,6.54,155,161.54
+Customer MDLWA,"Kolesnikova, Katerina",Spain,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination WOFLH,2022-01-27,2022-02-24,18.69,338.2,356.89
+Customer MLTDN,"Hassall, Mark",Mexico,"King, Russell",Sales Representative,Shipper ZHISN,Destination QMVCI,2021-09-18,2021-10-16,1.61,88.8,90.41
+Customer MLTDN,"Hassall, Mark",Mexico,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination QOTQA,2022-08-08,2022-09-05,43.9,479.75,523.65
+Customer MLTDN,"Hassall, Mark",Mexico,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination QOTQA,2022-11-28,2022-12-26,11.99,320,331.99
+Customer MLTDN,"Hassall, Mark",Mexico,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination RAIGI,2023-03-04,2023-04-01,39.92,514.4,554.32
+Customer NLTYP,"Ma, Andrew",United States,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 78-A,2022-12-12,2023-01-09,20.25,228,248.25
+Customer NLTYP,"Ma, Andrew",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 78-B,2023-04-06,2023-05-04,14.91,326,340.91
+Customer NLTYP,"Ma, Andrew",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 78-C,2022-08-07,2022-09-04,94.8,1393.24,1488.04
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 84-B,2021-10-21,2021-11-18,8.56,144.8,153.36
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 84-C,2022-02-19,2022-03-19,7.23,425.12,432.35
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Davis, Sara",CEO,Shipper GVSUA,Ship to 84-C,2023-01-23,2023-03-06,49.19,629,678.19
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Davis, Sara",CEO,Shipper ZHISN,Ship to 84-C,2022-05-23,2022-06-20,194.72,2812,3006.72
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 84-C,2022-03-18,2022-04-01,4.81,471.2,476.01
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 84-C,2022-12-31,2023-01-28,22.11,439.6,461.71
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 84-A,2021-07-08,2021-08-05,41.34,654.06,695.4
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 84-B,2023-01-05,2023-02-02,130.94,1788.45,1919.39
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 84-B,2022-02-27,2022-03-27,25.09,1659.2,1684.29
+Customer NRCSK,"Tuntisangaroon, Sittichai",France,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 84-C,2023-01-21,2023-02-18,9.26,159,168.26
+Customer NRZBB,"Allen, Michael",Germany,"Davis, Sara",CEO,Shipper GVSUA,Destination LOUIE,2023-03-16,2023-04-27,40.42,471.2,511.62
+Customer NRZBB,"Allen, Michael",Germany,"Davis, Sara",CEO,Shipper ZHISN,Destination LOUIE,2023-01-15,2023-02-12,69.53,845.8,915.33
+Customer NRZBB,"Allen, Michael",Germany,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination LOUIE,2023-04-09,2023-05-07,1.21,933.5,934.71
+Customer NRZBB,"Allen, Michael",Germany,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination RSVRP,2022-10-03,2022-10-31,61.02,878,939.02
+Customer NRZBB,"Allen, Michael",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination ZELZJ,2022-10-13,2022-11-24,23.94,330,353.94
+Customer NRZBB,"Allen, Michael",Germany,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination LOUIE,2022-08-25,2022-09-22,29.46,814.5,843.96
+Customer NYUHS,"Moore, Michael",United States,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 65-A,2023-01-26,2023-02-09,174.05,2984,3158.05
+Customer NYUHS,"Moore, Michael",United States,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 65-B,2021-07-22,2021-08-19,48.29,584,632.29
+Customer NYUHS,"Moore, Michael",United States,"Davis, Sara",CEO,Shipper ETYNR,Ship to 65-A,2021-09-25,2021-10-23,74.16,2094.3,2168.46
+Customer NYUHS,"Moore, Michael",United States,"Davis, Sara",CEO,Shipper ETYNR,Ship to 65-A,2023-05-06,2023-06-03,8.53,1255.7205,1264.2505
+Customer NYUHS,"Moore, Michael",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 65-A,2022-01-01,2022-01-29,12.51,3868.6,3881.11
+Customer NYUHS,"Moore, Michael",United States,"Davis, Sara",CEO,Shipper ZHISN,Ship to 65-B,2021-09-27,2021-10-25,150.15,2835,2985.15
+Customer NYUHS,"Moore, Michael",United States,"Davis, Sara",CEO,Shipper ZHISN,Ship to 65-C,2022-07-14,2022-08-11,44.42,2388.5,2432.92
+Customer NYUHS,"Moore, Michael",United States,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Ship to 65-C,2023-02-16,2023-03-16,280.61,11380,11660.61
+Customer NYUHS,"Moore, Michael",United States,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 65-A,2023-04-06,2023-05-04,55.12,903.75,958.87
+Customer NYUHS,"Moore, Michael",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 65-A,2023-03-31,2023-04-28,61.14,3574.8,3635.94
+Customer NYUHS,"Moore, Michael",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 65-B,2023-01-07,2023-02-04,37.52,1140,1177.52
+Customer NYUHS,"Moore, Michael",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 65-A,2021-11-05,2021-12-17,142.08,1618.88,1760.96
+Customer NYUHS,"Moore, Michael",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 65-C,2022-03-19,2022-04-16,708.95,10495.6,11204.55
+Customer NYUHS,"Moore, Michael",United States,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 65-B,2022-12-02,2022-12-30,18.66,507,525.66
+Customer NYUHS,"Moore, Michael",United States,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 65-B,2022-06-16,2022-07-14,58.98,890,948.98
+Customer NYUHS,"Moore, Michael",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 65-A,2021-08-30,2021-09-27,147.26,1887.6,2034.86
+Customer NYUHS,"Moore, Michael",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 65-B,2022-06-10,2022-07-08,13.75,1234.05,1247.8
+Customer NYUHS,"Moore, Michael",United States,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 65-A,2021-08-02,2021-08-30,98.03,1456,1554.03
+Customer OXFRU,"Louverdis, George",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 44-A,2021-08-13,2021-09-10,25.83,351,376.83
+Customer OXFRU,"Louverdis, George",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 44-A,2022-05-12,2022-06-09,27.94,465.7,493.64
+Customer OXFRU,"Louverdis, George",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 44-C,2023-01-30,2023-03-13,53.23,581,634.23
+Customer OXFRU,"Louverdis, George",Germany,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 44-C,2022-06-03,2022-06-17,96.72,1152.5,1249.22
+Customer OXFRU,"Louverdis, George",Germany,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 44-A,2023-05-05,2023-06-02,136,1629.975,1765.975
+Customer OXFRU,"Louverdis, George",Germany,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 44-A,2023-02-17,2023-03-17,20.37,368.9325,389.3025
+Customer OXFRU,"Louverdis, George",Germany,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 44-C,2022-07-09,2022-08-06,174.2,1994.4,2168.6
+Customer OXFRU,"Louverdis, George",Germany,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 44-A,2022-04-04,2022-05-02,36.21,1380.6,1416.81
+Customer OXFRU,"Louverdis, George",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 44-B,2022-05-14,2022-06-11,58.88,1645,1703.88
+Customer OXFRU,"Louverdis, George",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 44-B,2022-12-10,2023-01-07,91.28,3603.22,3694.5
+Customer OXFRU,"Louverdis, George",Germany,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 44-B,2022-07-08,2022-08-05,32.1,516.4675,548.5675
+Customer OXFRU,"Louverdis, George",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 44-C,2023-03-09,2023-04-06,32.01,500,532.01
+Customer OXFRU,"Louverdis, George",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 44-A,2021-08-19,2021-09-16,76.56,1170.375,1246.935
+Customer OXFRU,"Louverdis, George",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 44-A,2021-10-31,2021-11-28,110.37,1584,1694.37
+Customer OXFRU,"Louverdis, George",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 44-A,2022-04-30,2022-05-28,45.33,2318.24,2363.57
+Customer PSNMQ,"Ray, Mike",Argentina,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination QTHBC,2022-04-29,2022-05-27,17.22,225.5,242.72
+Customer PSNMQ,"Ray, Mike",Argentina,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination QTHBC,2023-04-28,2023-05-26,0.33,305,305.33
+Customer PSNMQ,"Ray, Mike",Argentina,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination CJDJB,2022-12-17,2023-01-14,1.1,12.5,13.6
+Customer PSNMQ,"Ray, Mike",Argentina,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination QTHBC,2023-01-07,2023-02-04,19.76,477,496.76
+Customer PSNMQ,"Ray, Mike",Argentina,"King, Russell",Sales Representative,Shipper ZHISN,Destination QTHBC,2023-03-10,2023-03-24,31.51,644.8,676.31
+Customer PSNMQ,"Ray, Mike",Argentina,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination IGLOB,2023-02-11,2023-03-11,2.84,150,152.84
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 47-B,2023-01-02,2023-01-30,31.22,852,883.22
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 47-A,2022-11-04,2022-12-16,141.06,1850,1991.06
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Davis, Sara",CEO,Shipper ETYNR,Ship to 47-C,2023-04-21,2023-05-19,65,3090,3155
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Davis, Sara",CEO,Shipper GVSUA,Ship to 47-B,2022-01-06,2022-02-03,34.82,400,434.82
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 47-B,2023-03-02,2023-03-30,19.8,1122.8,1142.6
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 47-A,2023-04-10,2023-05-08,23.6,243.18,266.78
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 47-B,2022-08-20,2022-09-17,158.44,2720.05,2878.49
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 47-B,2022-10-08,2022-11-05,45.52,805.425,850.945
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 47-A,2023-01-19,2023-02-16,59.28,1938.375,1997.655
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 47-B,2023-03-17,2023-04-28,27.91,1659.535,1687.445
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 47-A,2023-01-19,2023-03-02,2.71,211.2,213.91
+Customer PSQUZ,"Lupu, Cornel",Venezuela,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 47-B,2022-03-25,2022-04-08,64.45,1584,1648.45
+Customer PVDZC,"Taylor, Maurice",Canada,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 51-A,2022-10-30,2022-12-11,57.75,638.5,696.25
+Customer PVDZC,"Taylor, Maurice",Canada,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 51-C,2022-06-11,2022-07-09,7.15,639.9,647.05
+Customer PVDZC,"Taylor, Maurice",Canada,"Davis, Sara",CEO,Shipper ETYNR,Ship to 51-B,2021-12-09,2022-01-06,20.39,399,419.39
+Customer PVDZC,"Taylor, Maurice",Canada,"Davis, Sara",CEO,Shipper ETYNR,Ship to 51-B,2022-07-21,2022-08-18,379.13,4109.7,4488.83
+Customer PVDZC,"Taylor, Maurice",Canada,"Davis, Sara",CEO,Shipper GVSUA,Ship to 51-C,2022-08-01,2022-09-12,154.68,2697.5,2852.18
+Customer PVDZC,"Taylor, Maurice",Canada,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 51-C,2021-10-28,2021-11-25,15.66,3354,3369.66
+Customer PVDZC,"Taylor, Maurice",Canada,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 51-C,2022-01-23,2022-02-20,370.61,9194.56,9565.17
+Customer PVDZC,"Taylor, Maurice",Canada,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 51-B,2021-10-17,2021-11-28,52.84,1786.88,1839.72
+Customer PVDZC,"Taylor, Maurice",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 51-B,2022-04-14,2022-05-12,7.13,147.9,155.03
+Customer PVDZC,"Taylor, Maurice",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 51-B,2022-08-04,2022-09-01,91.05,1260,1351.05
+Customer PVDZC,"Taylor, Maurice",Canada,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 51-C,2022-06-17,2022-07-15,188.99,2465.25,2654.24
+Customer PVDZC,"Taylor, Maurice",Canada,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 51-B,2022-07-07,2022-08-04,44.77,1101,1145.77
+Customer PVDZC,"Taylor, Maurice",Canada,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 51-C,2022-02-07,2022-03-07,4.07,1078,1082.07
+Customer PZNLA,"Natarajan, Mrina",Germany,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 52-A,2021-08-09,2021-09-06,125.77,1200.8,1326.57
+Customer PZNLA,"Natarajan, Mrina",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 52-A,2022-12-16,2023-01-13,58.13,1335,1393.13
+Customer PZNLA,"Natarajan, Mrina",Germany,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 52-B,2022-10-09,2022-11-06,0.58,114,114.58
+Customer PZNLA,"Natarajan, Mrina",Germany,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 52-C,2022-06-20,2022-07-04,127.34,2147.4,2274.74
+Customer PZNLA,"Natarajan, Mrina",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 52-B,2023-03-12,2023-04-09,10.22,245,255.22
+Customer QNIVZ,"Miller, Lisa",Germany,"Davis, Sara",CEO,Shipper ETYNR,Ship to 56-C,2022-04-16,2022-05-14,4.99,240,244.99
+Customer QNIVZ,"Miller, Lisa",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 56-B,2022-01-07,2022-02-04,91.48,1194,1285.48
+Customer QNIVZ,"Miller, Lisa",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 56-B,2023-04-14,2023-05-12,43.3,632.4,675.7
+Customer QNIVZ,"Miller, Lisa",Germany,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 56-B,2022-09-26,2022-10-24,145.63,1768,1913.63
+Customer QNIVZ,"Miller, Lisa",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 56-A,2021-07-19,2021-08-16,55.09,1504.65,1559.74
+Customer QNIVZ,"Miller, Lisa",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 56-C,2022-12-05,2023-01-02,157.55,2310,2467.55
+Customer QNIVZ,"Miller, Lisa",Germany,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 56-C,2022-05-30,2022-06-27,120.97,1728.525,1849.495
+Customer QNIVZ,"Miller, Lisa",Germany,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 56-C,2022-06-26,2022-07-24,75.89,1013.745,1089.635
+Customer QNIVZ,"Miller, Lisa",Germany,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 56-B,2023-01-15,2023-02-12,71.49,906.93,978.42
+Customer QNIVZ,"Miller, Lisa",Germany,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 56-B,2023-04-03,2023-05-01,96.35,1197.95,1294.3
+Customer QUHWH,"Ilyina, Julia",Spain,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 8-C,2023-03-24,2023-04-07,16.16,224,240.16
+Customer QUHWH,"Ilyina, Julia",Spain,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 8-A,2021-10-10,2021-11-07,77.92,982,1059.92
+Customer QUHWH,"Ilyina, Julia",Spain,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 8-C,2022-12-29,2023-01-26,97.09,3026.85,3123.94
+Customer QVEPD,"Garden, Euan",Brazil,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 67-A,2022-03-20,2022-04-17,64.33,1472,1536.33
+Customer QVEPD,"Garden, Euan",Brazil,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 67-A,2021-08-22,2021-09-19,12.76,819,831.76
+Customer QVEPD,"Garden, Euan",Brazil,"Davis, Sara",CEO,Shipper GVSUA,Ship to 67-B,2023-02-09,2023-03-09,38.06,1955.125,1993.185
+Customer QVEPD,"Garden, Euan",Brazil,"Davis, Sara",CEO,Shipper GVSUA,Ship to 67-C,2023-01-05,2023-02-02,47.38,602.4,649.78
+Customer QVEPD,"Garden, Euan",Brazil,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 67-A,2023-04-29,2023-06-10,85.8,1838,1923.8
+Customer QVEPD,"Garden, Euan",Brazil,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 67-B,2022-06-10,2022-07-22,60.43,965,1025.43
+Customer QVEPD,"Garden, Euan",Brazil,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 67-C,2022-08-28,2022-10-09,14.25,372.375,386.625
+Customer QVEPD,"Garden, Euan",Brazil,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 67-C,2023-01-26,2023-02-23,160.55,2603,2763.55
+Customer QVEPD,"Garden, Euan",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 67-A,2021-09-06,2021-10-04,29.76,349.5,379.26
+Customer QVEPD,"Garden, Euan",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 67-C,2022-02-14,2022-03-14,68.66,914.4,983.06
+Customer QVEPD,"Garden, Euan",Brazil,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 67-A,2022-08-06,2022-09-03,50.97,560,610.97
+Customer QXPPT,"Wright, David",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 45-A,2022-10-27,2022-11-24,51.44,844.2525,895.6925
+Customer QXPPT,"Wright, David",United States,"Davis, Sara",CEO,Shipper ETYNR,Ship to 45-C,2022-06-25,2022-07-23,13.73,317.75,331.48
+Customer QXPPT,"Wright, David",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 45-C,2023-02-12,2023-03-12,90.97,1378.07,1469.04
+Customer QXPPT,"Wright, David",United States,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 45-A,2022-11-10,2022-12-08,45.97,536.4,582.37
+Customer QXVLA,"Bansal, Dushyant",France,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 7-A,2022-09-23,2022-10-21,27.94,660,687.94
+Customer QXVLA,"Bansal, Dushyant",France,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 7-C,2022-06-12,2022-07-10,88.4,1761,1849.4
+Customer QXVLA,"Bansal, Dushyant",France,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 7-A,2021-07-25,2021-08-22,55.28,1176,1231.28
+Customer QXVLA,"Bansal, Dushyant",France,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 7-C,2022-02-05,2022-03-05,156.66,1994.52,2151.18
+Customer QXVLA,"Bansal, Dushyant",France,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 7-C,2022-02-18,2022-03-18,53.3,1838.2,1891.5
+Customer QXVLA,"Bansal, Dushyant",France,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 7-C,2021-09-04,2021-10-16,5.74,1420,1425.74
+Customer QXVLA,"Bansal, Dushyant",France,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 7-B,2022-06-30,2022-07-28,59.14,593.75,652.89
+Customer QXVLA,"Bansal, Dushyant",France,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 7-B,2022-08-12,2022-09-09,30.36,450,480.36
+Customer QXVLA,"Bansal, Dushyant",France,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 7-C,2021-11-22,2021-12-20,131.7,7390.2,7521.9
+Customer QXVLA,"Bansal, Dushyant",France,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 7-B,2022-06-05,2022-07-03,8.05,520.41,528.46
+Customer QXVLA,"Bansal, Dushyant",France,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 7-C,2023-01-12,2023-02-09,7.09,730,737.09
+Customer QZURI,"Uppal, Sunil",Portugal,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 60-C,2023-04-08,2023-05-06,202.24,2633.9,2836.14
+Customer QZURI,"Uppal, Sunil",Portugal,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 60-B,2021-10-23,2021-11-20,15.51,285.12,300.63
+Customer QZURI,"Uppal, Sunil",Portugal,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 60-A,2022-02-03,2022-03-03,73.83,851.2,925.03
+Customer QZURI,"Uppal, Sunil",Portugal,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 60-A,2022-03-17,2022-04-14,13.02,558,571.02
+Customer QZURI,"Uppal, Sunil",Portugal,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 60-A,2021-12-27,2022-01-24,60.26,716.72,776.98
+Customer RFNQC,"Boseman, Randall",United Kingdom,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination QTKCU,2023-04-28,2023-05-12,278.96,3740,4018.96
+Customer RFNQC,"Boseman, Randall",United Kingdom,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination FRCGJ,2023-03-31,2023-04-28,185.48,2772,2957.48
+Customer RFNQC,"Boseman, Randall",United Kingdom,"Davis, Sara",CEO,Shipper GVSUA,Destination QTKCU,2021-11-26,2022-01-07,71.97,950,1021.97
+Customer RFNQC,"Boseman, Randall",United Kingdom,"Davis, Sara",CEO,Shipper ZHISN,Destination BBMRT,2022-01-01,2022-01-29,83.93,3063,3146.93
+Customer RFNQC,"Boseman, Randall",United Kingdom,"King, Russell",Sales Representative,Shipper ZHISN,Destination FRCGJ,2023-04-24,2023-05-22,46.62,817.875,864.495
+Customer RFNQC,"Boseman, Randall",United Kingdom,"King, Russell",Sales Representative,Shipper ZHISN,Destination QTKCU,2022-05-09,2022-06-06,74.46,796.35,870.81
+Customer RFNQC,"Boseman, Randall",United Kingdom,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination BBMRT,2023-04-15,2023-05-13,74.36,1966.81,2041.17
+Customer RFNQC,"Boseman, Randall",United Kingdom,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination FRCGJ,2022-11-03,2022-11-17,16.56,655,671.56
+Customer RTXGC,"Raghav, Amritansh",France,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 9-B,2023-03-06,2023-04-03,134.64,1788.63,1923.27
+Customer RTXGC,"Raghav, Amritansh",France,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 9-C,2023-03-11,2023-04-08,19.77,360,379.77
+Customer RTXGC,"Raghav, Amritansh",France,"Davis, Sara",CEO,Shipper ETYNR,Ship to 9-B,2022-05-02,2022-05-30,11.06,818.4,829.46
+Customer RTXGC,"Raghav, Amritansh",France,"Davis, Sara",CEO,Shipper ETYNR,Ship to 9-B,2023-01-12,2023-01-26,63.54,843,906.54
+Customer RTXGC,"Raghav, Amritansh",France,"Davis, Sara",CEO,Shipper ZHISN,Ship to 9-A,2021-10-29,2021-11-26,166.31,2436.18,2602.49
+Customer RTXGC,"Raghav, Amritansh",France,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 9-B,2023-02-05,2023-03-05,112.27,1979.23,2091.5
+Customer RTXGC,"Raghav, Amritansh",France,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 9-C,2021-10-16,2021-11-27,10.19,88.5,98.69
+Customer RTXGC,"Raghav, Amritansh",France,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 9-B,2022-09-10,2022-09-24,113.15,1930.4,2043.55
+Customer RTXGC,"Raghav, Amritansh",France,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 9-A,2023-02-09,2023-03-09,60.42,917,977.42
+Customer RTXGC,"Raghav, Amritansh",France,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 9-A,2022-11-06,2022-12-04,16.97,360,376.97
+Customer RTXGC,"Raghav, Amritansh",France,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 9-B,2021-11-25,2021-12-23,96.04,1549.6,1645.64
+Customer RTXGC,"Raghav, Amritansh",France,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 9-B,2022-10-23,2022-11-06,63.2,1296,1359.2
+Customer RTXGC,"Raghav, Amritansh",France,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 9-A,2022-11-05,2022-12-03,20.12,484.2625,504.3825
+Customer RTXGC,"Raghav, Amritansh",France,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 9-A,2023-05-06,2023-06-03,38.28,792.75,831.03
+Customer RTXGC,"Raghav, Amritansh",France,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 9-C,2022-03-11,2022-04-08,64.56,1820.8,1885.36
+Customer RTXGC,"Raghav, Amritansh",France,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 9-C,2022-11-26,2022-12-24,16.71,1948.5,1965.21
+Customer RTXGC,"Raghav, Amritansh",France,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 9-B,2022-04-18,2022-05-16,350.64,2550,2900.64
+Customer SFOGW,"Luper, Steve",Belgium,"Davis, Sara",CEO,Shipper ETYNR,Ship to 76-A,2023-04-21,2023-05-19,29.59,732.6,762.19
+Customer SFOGW,"Luper, Steve",Belgium,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 76-C,2022-03-14,2022-04-11,68.52,1505.18,1573.7
+Customer SFOGW,"Luper, Steve",Belgium,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 76-B,2023-04-20,2023-05-18,0.17,1754.5,1754.67
+Customer SFOGW,"Luper, Steve",Belgium,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 76-C,2023-01-22,2023-03-05,56.46,1112,1168.46
+Customer SFOGW,"Luper, Steve",Belgium,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 76-A,2022-02-26,2022-03-26,147.06,3891,4038.06
+Customer SFOGW,"Luper, Steve",Belgium,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 76-B,2023-01-20,2023-02-17,424.3,4581,5005.3
+Customer SFOGW,"Luper, Steve",Belgium,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 76-B,2022-03-04,2022-04-01,14.78,713.3,728.08
+Customer SFOGW,"Luper, Steve",Belgium,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 76-B,2021-07-09,2021-08-06,51.3,3597.9,3649.2
+Customer SFOGW,"Luper, Steve",Belgium,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 76-B,2021-09-10,2021-10-08,6.27,2708.8,2715.07
+Customer SFOGW,"Luper, Steve",Belgium,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 76-A,2023-03-06,2023-04-17,15.55,2255.5,2271.05
+Customer SFOGW,"Luper, Steve",Belgium,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 76-B,2022-12-05,2023-01-02,1.59,28,29.59
+Customer SFOGW,"Luper, Steve",Belgium,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 76-B,2023-02-12,2023-03-12,5.64,1209,1214.64
+Customer SIUIH,"Troup, Carol",Spain,"Davis, Sara",CEO,Shipper ZHISN,Ship to 69-B,2021-09-16,2021-10-14,7.56,498.5,506.06
+Customer SIUIH,"Troup, Carol",Spain,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 69-A,2023-04-09,2023-05-07,32.99,361,393.99
+Customer SIUIH,"Troup, Carol",Spain,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 69-C,2023-03-02,2023-03-30,8.29,365.89,374.18
+Customer SIUIH,"Troup, Carol",Spain,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 69-A,2021-08-14,2021-08-28,2.94,86.5,89.44
+Customer SIUIH,"Troup, Carol",Spain,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 69-B,2021-08-15,2021-09-12,12.69,155.4,168.09
+Customer SNXOJ,"Syamala, Manoj",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 86-A,2021-09-09,2021-10-07,45.08,755,800.08
+Customer SNXOJ,"Syamala, Manoj",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 86-A,2022-09-01,2022-09-29,20.6,397.8,418.4
+Customer SNXOJ,"Syamala, Manoj",Germany,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 86-C,2023-04-23,2023-05-21,71.64,1485.8,1557.44
+Customer SNXOJ,"Syamala, Manoj",Germany,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 86-C,2022-08-14,2022-09-11,41.38,589,630.38
+Customer SNXOJ,"Syamala, Manoj",Germany,"Davis, Sara",CEO,Shipper ETYNR,Ship to 86-C,2022-09-15,2022-10-13,47.22,625.275,672.495
+Customer SNXOJ,"Syamala, Manoj",Germany,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 86-B,2021-09-23,2021-10-21,40.26,1614.8,1655.06
+Customer SNXOJ,"Syamala, Manoj",Germany,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 86-A,2022-04-22,2022-06-03,105.65,1942,2047.65
+Customer SNXOJ,"Syamala, Manoj",Germany,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 86-B,2021-11-07,2021-12-05,0.78,363.6,364.38
+Customer SNXOJ,"Syamala, Manoj",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 86-A,2022-08-21,2022-09-18,23.55,708.75,732.3
+Customer SNXOJ,"Syamala, Manoj",Germany,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 86-A,2021-11-18,2021-12-16,36.71,1106.4,1143.11
+Customer SRQVM,"Li, Yan",Brazil,"Davis, Sara",CEO,Shipper ETYNR,Ship to 88-A,2023-02-20,2023-03-20,1.66,33.75,35.41
+Customer SRQVM,"Li, Yan",Brazil,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 88-A,2023-02-24,2023-03-24,13.72,342,355.72
+Customer SRQVM,"Li, Yan",Brazil,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 88-A,2022-07-01,2022-07-29,13.41,142.5,155.91
+Customer SRQVM,"Li, Yan",Brazil,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 88-C,2023-01-01,2023-01-29,4.87,140,144.87
+Customer SRQVM,"Li, Yan",Brazil,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 88-A,2022-08-25,2022-09-22,0.14,1371.8,1371.94
+Customer SRQVM,"Li, Yan",Brazil,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 88-B,2021-07-15,2021-08-12,13.97,517.8,531.77
+Customer SRQVM,"Li, Yan",Brazil,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 88-C,2022-01-21,2022-02-18,44.12,1707.84,1751.96
+Customer SRQVM,"Li, Yan",Brazil,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 88-B,2022-12-30,2023-01-27,55.23,1193.01,1248.24
+Customer SRQVM,"Li, Yan",Brazil,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 88-A,2023-03-09,2023-04-06,47.59,619.5,667.09
+Customer TDKEG,"Nash, Mike",Argentina,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 54-A,2023-03-30,2023-04-27,217.86,2220,2437.86
+Customer TDKEG,"Nash, Mike",Argentina,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 54-C,2023-03-18,2023-04-15,49.56,781,830.56
+Customer TDKEG,"Nash, Mike",Argentina,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 54-A,2022-05-08,2022-06-05,8.12,110,118.12
+Customer TDKEG,"Nash, Mike",Argentina,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 54-C,2022-01-09,2022-02-06,29.83,319.2,349.03
+Customer TDKEG,"Nash, Mike",Argentina,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 54-B,2023-02-20,2023-03-20,1.27,30,31.27
+Customer THHDP,"Kane, John",Austria,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination CUVPF,2023-03-26,2023-04-23,353.07,4813.5,5166.57
+Customer THHDP,"Kane, John",Austria,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination FFXKT,2022-01-02,2022-02-13,67.88,2713.5,2781.38
+Customer THHDP,"Kane, John",Austria,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination FFXKT,2022-12-24,2023-01-21,126.66,2158,2284.66
+Customer THHDP,"Kane, John",Austria,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination RVDMF,2022-06-17,2022-07-29,26.06,550.5875,576.6475
+Customer THHDP,"Kane, John",Austria,"Davis, Sara",CEO,Shipper GVSUA,Destination RVDMF,2021-07-17,2021-08-14,140.51,1614.88,1755.39
+Customer THHDP,"Kane, John",Austria,"Davis, Sara",CEO,Shipper GVSUA,Destination RVDMF,2021-11-11,2021-12-09,162.33,5398.725,5561.055
+Customer THHDP,"Kane, John",Austria,"Davis, Sara",CEO,Shipper ZHISN,Destination CUVPF,2023-03-23,2023-04-20,74.6,1408,1482.6
+Customer THHDP,"Kane, John",Austria,"Davis, Sara",CEO,Shipper ZHISN,Destination FFXKT,2022-12-11,2023-01-08,96.43,2030.4,2126.83
+Customer THHDP,"Kane, John",Austria,"Davis, Sara",CEO,Shipper ZHISN,Destination RVDMF,2022-12-15,2023-01-12,351.53,6635.275,6986.805
+Customer THHDP,"Kane, John",Austria,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination CUVPF,2022-12-10,2023-01-07,11.19,344,355.19
+Customer THHDP,"Kane, John",Austria,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination CUVPF,2023-04-13,2023-05-11,754.26,6750,7504.26
+Customer THHDP,"Kane, John",Austria,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination FFXKT,2021-07-23,2021-08-20,146.06,1873.8,2019.86
+Customer THHDP,"Kane, John",Austria,"Funk, Don","Vice President, Sales",Shipper ETYNR,Destination RVDMF,2021-11-29,2021-12-27,101.95,1689.78,1791.73
+Customer THHDP,"Kane, John",Austria,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination CUVPF,2022-07-10,2022-08-07,96.78,4725,4821.78
+Customer THHDP,"Kane, John",Austria,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination RVDMF,2023-04-01,2023-05-13,117.61,4288.85,4406.46
+Customer THHDP,"Kane, John",Austria,"King, Russell",Sales Representative,Shipper GVSUA,Destination CUVPF,2022-09-12,2022-10-10,78.09,1536.8,1614.89
+Customer THHDP,"Kane, John",Austria,"King, Russell",Sales Representative,Shipper GVSUA,Destination CUVPF,2023-01-16,2023-02-13,411.88,4705.5,5117.38
+Customer THHDP,"Kane, John",Austria,"King, Russell",Sales Representative,Shipper ZHISN,Destination CUVPF,2023-04-08,2023-05-06,79.46,4680.9,4760.36
+Customer THHDP,"Kane, John",Austria,"King, Russell",Sales Representative,Shipper ZHISN,Destination FFXKT,2022-08-15,2022-09-12,477.9,5510.5925,5988.4925
+Customer THHDP,"Kane, John",Austria,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination CUVPF,2022-04-22,2022-05-20,789.95,8623.45,9413.4
+Customer THHDP,"Kane, John",Austria,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination CUVPF,2023-01-27,2023-02-24,100.22,2966.5,3066.72
+Customer THHDP,"Kane, John",Austria,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination RVDMF,2022-02-11,2022-03-11,47.94,1792,1839.94
+Customer THHDP,"Kane, John",Austria,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination CUVPF,2023-02-18,2023-03-18,162.75,6379.4,6542.15
+Customer THHDP,"Kane, John",Austria,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination RVDMF,2023-05-05,2023-06-02,258.64,5218,5476.64
+Customer THHDP,"Kane, John",Austria,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination CUVPF,2022-01-30,2022-02-13,458.78,4899.2,5357.98
+Customer THHDP,"Kane, John",Austria,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination FFXKT,2021-12-13,2022-01-10,94.77,2900,2994.77
+Customer THHDP,"Kane, John",Austria,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination RVDMF,2022-10-09,2022-11-06,272.47,3436.4435,3708.9135
+Customer THHDP,"Kane, John",Austria,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination RVDMF,2022-01-03,2022-01-31,73.79,855.015,928.805
+Customer THHDP,"Kane, John",Austria,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination RVDMF,2021-12-23,2022-01-20,126.38,2090.88,2217.26
+Customer THHDP,"Kane, John",Austria,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination CUVPF,2022-12-03,2022-12-31,145.45,2286,2431.45
+Customer TMXGN,"Makovac, Zrinka",Norway,"Davis, Sara",CEO,Shipper ETYNR,Ship to 70-B,2021-12-18,2022-01-15,93.63,1058.4,1152.03
+Customer TMXGN,"Makovac, Zrinka",Norway,"Davis, Sara",CEO,Shipper ETYNR,Ship to 70-C,2023-02-26,2023-03-26,53.05,670,723.05
+Customer TMXGN,"Makovac, Zrinka",Norway,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 70-C,2023-04-10,2023-04-24,4.62,622.35,626.97
+Customer TMXGN,"Makovac, Zrinka",Norway,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 70-B,2022-04-29,2022-05-27,13.37,200,213.37
+Customer TMXGN,"Makovac, Zrinka",Norway,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 70-B,2022-08-20,2022-09-17,38.64,500,538.64
+Customer TMXGN,"Makovac, Zrinka",Norway,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 70-B,2023-01-14,2023-02-11,72.19,2684.4,2756.59
+Customer UBHAU,"Jaffe, David",United Kingdom,"Davis, Sara",CEO,Shipper ETYNR,Destination NZASL,2023-04-14,2023-04-28,123.83,1500,1623.83
+Customer UBHAU,"Jaffe, David",United Kingdom,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination DLEUN,2022-05-15,2022-06-12,4.87,139.8,144.67
+Customer UBHAU,"Jaffe, David",United Kingdom,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination NZASL,2022-03-11,2022-04-08,45.59,1328,1373.59
+Customer UBHAU,"Jaffe, David",United Kingdom,"King, Russell",Sales Representative,Shipper ZHISN,Destination DLEUN,2021-08-26,2021-09-23,22.77,479.4,502.17
+Customer UBHAU,"Jaffe, David",United Kingdom,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination NZASL,2023-03-13,2023-04-10,3.26,220,223.26
+Customer UBHAU,"Jaffe, David",United Kingdom,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination DLEUN,2022-03-24,2022-04-21,6.88,386.2,393.08
+Customer UBHAU,"Jaffe, David",United Kingdom,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination NZASL,2023-03-11,2023-04-08,2.17,711,713.17
+Customer UBHAU,"Jaffe, David",United Kingdom,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination NZASL,2022-06-24,2022-07-22,29.6,477,506.6
+Customer UBHAU,"Jaffe, David",United Kingdom,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination DLEUN,2022-05-16,2022-06-13,12.36,355.5,367.86
+Customer UBHAU,"Jaffe, David",United Kingdom,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination DLEUN,2022-07-15,2022-08-26,29.98,493,522.98
+Customer UISOJ,"Wu, Qiong",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 43-B,2022-05-22,2022-06-19,11.92,210,221.92
+Customer UISOJ,"Wu, Qiong",United States,"Davis, Sara",CEO,Shipper ZHISN,Ship to 43-B,2022-03-21,2022-04-18,7.48,147,154.48
+Customer UMTLM,"Langohr, Kris",Venezuela,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination SXYQX,2022-04-07,2022-05-05,29.75,575,604.75
+Customer UMTLM,"Langohr, Kris",Venezuela,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination SXYQX,2022-03-17,2022-04-14,4.41,180.48,184.89
+Customer UMTLM,"Langohr, Kris",Venezuela,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination UOUWK,2023-03-18,2023-04-15,105.36,1762.7,1868.06
+Customer UMTLM,"Langohr, Kris",Venezuela,"Davis, Sara",CEO,Shipper ETYNR,Destination UOUWK,2022-03-26,2022-04-23,30.53,1272,1302.53
+Customer UMTLM,"Langohr, Kris",Venezuela,"Davis, Sara",CEO,Shipper GVSUA,Destination SXYQX,2023-03-25,2023-05-06,37.97,912,949.97
+Customer UMTLM,"Langohr, Kris",Venezuela,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Destination JYDLM,2022-10-15,2022-11-12,3.52,378,381.52
+Customer UMTLM,"Langohr, Kris",Venezuela,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination UOUWK,2022-05-29,2022-06-26,83.22,880.5,963.72
+Customer UMTLM,"Langohr, Kris",Venezuela,"King, Russell",Sales Representative,Shipper ETYNR,Destination JYDLM,2022-03-31,2022-04-28,210.19,3163.2,3373.39
+Customer UMTLM,"Langohr, Kris",Venezuela,"King, Russell",Sales Representative,Shipper ETYNR,Destination JYDLM,2023-04-28,2023-05-26,120.92,1727.5,1848.42
+Customer UMTLM,"Langohr, Kris",Venezuela,"King, Russell",Sales Representative,Shipper GVSUA,Destination UOUWK,2022-07-16,2022-08-27,58.3,2285,2343.3
+Customer UMTLM,"Langohr, Kris",Venezuela,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination SXYQX,2023-03-19,2023-04-02,2.08,265.35,267.43
+Customer UMTLM,"Langohr, Kris",Venezuela,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination UOUWK,2022-12-25,2023-01-22,26.52,2341.364,2367.884
+Customer UMTLM,"Langohr, Kris",Venezuela,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination JYDLM,2022-07-29,2022-08-26,8.11,353.2,361.31
+Customer UMTLM,"Langohr, Kris",Venezuela,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination JYDLM,2022-08-22,2022-09-19,179.61,2054,2233.61
+Customer UMTLM,"Langohr, Kris",Venezuela,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination UOUWK,2023-02-02,2023-03-02,30.26,441.15,471.41
+Customer UMTLM,"Langohr, Kris",Venezuela,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination UOUWK,2023-02-23,2023-03-23,62.09,934.5,996.59
+Customer UMTLM,"Langohr, Kris",Venezuela,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination JYDLM,2021-07-16,2021-08-13,81.91,1119.9,1201.81
+Customer UMTLM,"Langohr, Kris",Venezuela,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination JYDLM,2021-12-26,2022-01-23,184.41,2122.92,2307.33
+Customer USDBG,"Koch, Paul",France,"Davis, Sara",CEO,Shipper GVSUA,Destination OPXJT,2022-09-17,2022-10-15,30.34,920.1,950.44
+Customer USDBG,"Koch, Paul",France,"Funk, Don","Vice President, Sales",Shipper ETYNR,Destination XBVKN,2023-03-24,2023-04-21,121.82,1733.06,1854.88
+Customer USDBG,"Koch, Paul",France,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination XBVKN,2023-01-29,2023-02-26,19.26,519,538.26
+Customer VMLOG,"Benito, Almudena",Mexico,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination LGGCH,2021-07-18,2021-08-15,3.25,100.8,104.05
+Customer VONTK,"Toh, Karen",Mexico,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 80-C,2021-08-08,2021-08-22,13.84,420,433.84
+Customer VONTK,"Toh, Karen",Mexico,"Davis, Sara",CEO,Shipper ETYNR,Ship to 80-B,2023-05-04,2023-06-01,15.67,360,375.67
+Customer VONTK,"Toh, Karen",Mexico,"Davis, Sara",CEO,Shipper ETYNR,Ship to 80-C,2021-09-12,2021-10-10,63.79,954.4,1018.19
+Customer VONTK,"Toh, Karen",Mexico,"Davis, Sara",CEO,Shipper ZHISN,Ship to 80-A,2023-01-20,2023-02-17,54.42,975,1029.42
+Customer VONTK,"Toh, Karen",Mexico,"Davis, Sara",CEO,Shipper ZHISN,Ship to 80-B,2021-08-29,2021-09-26,21.18,848.7,869.88
+Customer VONTK,"Toh, Karen",Mexico,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 80-C,2022-09-22,2022-10-20,2.01,534.85,536.86
+Customer VONTK,"Toh, Karen",Mexico,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 80-C,2023-02-27,2023-03-27,3.51,539.5,543.01
+Customer VONTK,"Toh, Karen",Mexico,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 80-B,2021-10-02,2021-10-30,64.5,1191.2,1255.7
+Customer VONTK,"Toh, Karen",Mexico,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 80-C,2022-06-23,2022-07-07,18.56,838.45,857.01
+Customer VONTK,"Toh, Karen",Mexico,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 80-B,2022-04-25,2022-05-09,218.15,4150.05,4368.2
+Customer WFIZJ,"Misiec, Anna",Brazil,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 62-A,2023-05-04,2023-06-01,81.75,2027.08,2108.83
+Customer WFIZJ,"Misiec, Anna",Brazil,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 62-A,2023-03-19,2023-04-16,104.47,1119.9,1224.37
+Customer WFIZJ,"Misiec, Anna",Brazil,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 62-B,2022-12-19,2023-01-16,110.87,1531.08,1641.95
+Customer WFIZJ,"Misiec, Anna",Brazil,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 62-B,2022-03-26,2022-04-23,71.07,889.7,960.77
+Customer WFIZJ,"Misiec, Anna",Brazil,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 62-B,2022-09-05,2022-10-03,105.81,1227.02,1332.83
+Customer WFIZJ,"Misiec, Anna",Brazil,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 62-C,2023-02-04,2023-03-04,191.27,1920.6,2111.87
+Customer WFIZJ,"Misiec, Anna",Brazil,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 62-A,2022-01-07,2022-02-18,108.04,1830.78,1938.82
+Customer WFIZJ,"Misiec, Anna",Brazil,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 62-A,2021-12-04,2022-01-01,890.78,9210.9,10101.68
+Customer WFIZJ,"Misiec, Anna",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 62-A,2022-11-04,2022-12-02,58.33,1296.75,1355.08
+Customer WFIZJ,"Misiec, Anna",Brazil,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 62-A,2023-02-26,2023-03-26,33.05,768.75,801.8
+Customer WFIZJ,"Misiec, Anna",Brazil,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 62-B,2023-02-27,2023-03-27,21.19,537.5,558.69
+Customer WFIZJ,"Misiec, Anna",Brazil,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 62-C,2022-08-19,2022-09-16,201.29,2761.9375,2963.2275
+Customer WFIZJ,"Misiec, Anna",Brazil,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 62-C,2022-10-14,2022-11-11,4.78,595.5,600.28
+Customer WMFEA,"Schmöllerl, Martin",Italy,"Davis, Sara",CEO,Shipper GVSUA,Destination FFLQT,2022-10-20,2022-11-17,4.98,93.5,98.48
+Customer WMFEA,"Schmöllerl, Martin",Italy,"Funk, Don","Vice President, Sales",Shipper ETYNR,Destination DICGM,2023-04-30,2023-05-28,10.98,266,276.98
+Customer WMFEA,"Schmöllerl, Martin",Italy,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination FFLQT,2022-01-22,2022-02-19,3.02,49.8,52.82
+Customer WMFEA,"Schmöllerl, Martin",Italy,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination DICGM,2022-11-25,2022-12-23,7.7,88,95.7
+Customer WMFEA,"Schmöllerl, Martin",Italy,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination DICGM,2023-04-15,2023-05-13,47.09,1030,1077.09
+Customer WMFEA,"Schmöllerl, Martin",Italy,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination XNLFB,2022-12-31,2023-01-28,1.36,18.4,19.76
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Davis, Sara",CEO,Shipper ZHISN,Destination NRTZZ,2022-11-19,2022-12-17,31.43,2311.7,2343.13
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"King, Russell",Sales Representative,Shipper GVSUA,Destination YUJRD,2022-11-06,2022-12-04,96.65,1890.5,1987.15
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination YUJRD,2023-04-22,2023-05-20,48.22,1773,1821.22
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Destination YUJRD,2021-07-11,2021-08-08,22.98,556.62,579.6
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination NRTZZ,2023-03-20,2023-04-17,27.19,1098.46,1125.65
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Peled, Yael",Sales Representative,Shipper GVSUA,Destination YUJRD,2023-04-16,2023-05-14,47.84,1286.8,1334.64
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination YUJRD,2021-12-03,2021-12-31,1.17,1117.6,1118.77
+Customer WNMAF,"Jelitto, Jacek",Switzerland,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination NRTZZ,2022-04-28,2022-05-26,91.76,2314.2,2405.96
+Customer WULWD,"Meisels, Josh",Brazil,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 61-C,2022-10-28,2022-11-11,9.53,550,559.53
+Customer WULWD,"Meisels, Josh",Brazil,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 61-C,2022-01-21,2022-03-04,99.23,1194.27,1293.5
+Customer WULWD,"Meisels, Josh",Brazil,"Davis, Sara",CEO,Shipper GVSUA,Ship to 61-C,2022-07-02,2022-07-30,62.52,807.38,869.9
+Customer WULWD,"Meisels, Josh",Brazil,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 61-A,2023-03-31,2023-04-28,34.76,1353.6,1388.36
+Customer WULWD,"Meisels, Josh",Brazil,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 61-B,2021-12-11,2022-01-08,45.03,863.28,908.31
+Customer WULWD,"Meisels, Josh",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 61-B,2021-07-19,2021-08-16,3.05,448,451.05
+Customer WULWD,"Meisels, Josh",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 61-B,2022-08-27,2022-09-10,45.54,636,681.54
+Customer WULWD,"Meisels, Josh",Brazil,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 61-A,2021-08-27,2021-09-24,6.4,497.52,503.92
+Customer WULWD,"Meisels, Josh",Brazil,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 61-C,2022-12-24,2023-01-21,21.49,314.76,336.25
+Customer WVFAF,"Liu, Jenny",France,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination PXQRR,2022-01-08,2022-02-05,11.26,1622.4,1633.66
+Customer WVFAF,"Liu, Jenny",France,"Davis, Sara",CEO,Shipper ETYNR,Destination PXQRR,2022-12-22,2023-01-19,100.6,3687,3787.6
+Customer WVFAF,"Liu, Jenny",France,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination PXQRR,2022-12-03,2022-12-31,37.35,616,653.35
+Customer WVFAF,"Liu, Jenny",France,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination AGPCO,2022-08-15,2022-09-12,487.38,4985.5,5472.88
+Customer WVFAF,"Liu, Jenny",France,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination AGPCO,2022-03-20,2022-04-17,1.35,756,757.35
+Customer XBBVR,"Larsson, Katarina",Finland,"Davis, Sara",CEO,Shipper ZHISN,Ship to 90-A,2023-02-26,2023-03-26,38.11,452.9,491.01
+Customer XBBVR,"Larsson, Katarina",Finland,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 90-A,2023-04-07,2023-05-05,0.75,586,586.75
+Customer XBBVR,"Larsson, Katarina",Finland,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 90-B,2022-09-18,2022-10-16,22.76,412.35,435.11
+Customer XBBVR,"Larsson, Katarina",Finland,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 90-B,2022-07-30,2022-08-27,0.75,120,120.75
+Customer XBBVR,"Larsson, Katarina",Finland,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 90-C,2022-10-07,2022-11-18,16.72,642,658.72
+Customer XBBVR,"Larsson, Katarina",Finland,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 90-A,2023-02-10,2023-03-10,8.5,611.3,619.8
+Customer XBBVR,"Larsson, Katarina",Finland,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 90-B,2023-02-06,2023-03-06,0.82,336.8,337.62
+Customer XHXJV,"Poland, Carole",Germany,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 6-A,2022-07-29,2022-08-26,1.93,464,465.93
+Customer XHXJV,"Poland, Carole",Germany,"Doyle, Patricia",Sales Representative,Shipper ETYNR,Ship to 6-B,2023-01-27,2023-02-24,53.83,625,678.83
+Customer XHXJV,"Poland, Carole",Germany,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Ship to 6-A,2023-04-29,2023-05-27,31.14,858,889.14
+Customer XHXJV,"Poland, Carole",Germany,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Ship to 6-C,2022-04-09,2022-05-07,8.85,149,157.85
+Customer XHXJV,"Poland, Carole",Germany,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 6-A,2022-06-27,2022-07-25,27.71,330,357.71
+Customer XHXJV,"Poland, Carole",Germany,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 6-A,2022-04-17,2022-05-15,0.15,136.8,136.95
+Customer XHXJV,"Poland, Carole",Germany,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 6-B,2023-03-17,2023-04-28,44.65,677,721.65
+Customer XIIWM,"Litton, Tim",France,"Cameron, Maria",Sales Representative,Shipper GVSUA,Destination OLJND,2022-08-14,2022-09-11,0.87,55.8,56.67
+Customer XIIWM,"Litton, Tim",France,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 41-C,2022-07-25,2022-08-22,26.78,299.25,326.03
+Customer XIIWM,"Litton, Tim",France,"Davis, Sara",CEO,Shipper GVSUA,Ship to 41-C,2021-12-03,2021-12-31,0.45,72.96,73.41
+Customer XIIWM,"Litton, Tim",France,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 41-C,2023-01-14,2023-02-11,43.26,475.11,518.37
+Customer XIIWM,"Litton, Tim",France,"Funk, Don","Vice President, Sales",Shipper GVSUA,Destination DWJIO,2022-12-19,2023-01-02,249.93,2622.76,2872.69
+Customer XIIWM,"Litton, Tim",France,"King, Russell",Sales Representative,Shipper ZHISN,Destination OLJND,2023-03-03,2023-04-14,68.26,748.8,817.06
+Customer XIIWM,"Litton, Tim",France,"King, Russell",Sales Representative,Shipper ZHISN,Destination OLJND,2023-04-27,2023-05-25,2.79,36,38.79
+Customer XIIWM,"Litton, Tim",France,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination DWJIO,2022-01-14,2022-02-11,95.66,2123.2,2218.86
+Customer XIIWM,"Litton, Tim",France,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 41-C,2021-11-20,2021-12-18,19.64,429.4,449.04
+Customer XIIWM,"Litton, Tim",France,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination OLJND,2022-04-02,2022-04-30,10.64,608.4,619.04
+Customer XIIWM,"Litton, Tim",France,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 41-C,2022-02-21,2022-03-21,2.74,331.2,333.94
+Customer XIIWM,"Litton, Tim",France,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination DWJIO,2021-11-11,2021-12-09,64.19,642.06,706.25
+Customer XIIWM,"Litton, Tim",France,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination DWJIO,2022-01-24,2022-02-21,7.93,360,367.93
+Customer XIIWM,"Litton, Tim",France,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination OLJND,2022-04-09,2022-05-07,42.68,523.26,565.94
+Customer XOJYP,"Downs, Chris",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 75-C,2021-12-02,2021-12-30,195.68,2390.4,2586.08
+Customer XOJYP,"Downs, Chris",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 75-C,2022-11-27,2022-12-25,73.21,1990,2063.21
+Customer XOJYP,"Downs, Chris",United States,"Davis, Sara",CEO,Shipper ETYNR,Ship to 75-B,2021-12-17,2022-01-14,30.96,691.2,722.16
+Customer XOJYP,"Downs, Chris",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 75-A,2023-01-08,2023-02-05,36.68,678,714.68
+Customer XOJYP,"Downs, Chris",United States,"King, Russell",Sales Representative,Shipper GVSUA,Ship to 75-C,2021-11-08,2021-12-06,8.63,141.6,150.23
+Customer XOJYP,"Downs, Chris",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 75-A,2022-01-31,2022-02-14,4.34,485,489.34
+Customer XOJYP,"Downs, Chris",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 75-B,2023-03-25,2023-04-08,12.96,439,451.96
+Customer XOJYP,"Downs, Chris",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 75-C,2021-10-15,2021-11-26,191.67,4578.43,4770.1
+Customer XOJYP,"Downs, Chris",United States,"Suurs, Paul",Sales Representative,Shipper ETYNR,Ship to 75-C,2021-08-01,2021-08-29,4.54,48,52.54
+Customer XPNIK,"Neves, Paulo",Venezuela,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 46-A,2023-04-03,2023-05-15,73.91,1885,1958.91
+Customer XPNIK,"Neves, Paulo",Venezuela,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 46-B,2022-05-21,2022-06-18,48.17,1504.5,1552.67
+Customer XPNIK,"Neves, Paulo",Venezuela,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 46-C,2023-05-01,2023-05-29,12.91,189.42,202.33
+Customer XPNIK,"Neves, Paulo",Venezuela,"Davis, Sara",CEO,Shipper GVSUA,Ship to 46-B,2023-05-05,2023-06-02,0.93,484.5,485.43
+Customer XPNIK,"Neves, Paulo",Venezuela,"Davis, Sara",CEO,Shipper ZHISN,Ship to 46-A,2022-02-28,2022-03-28,148.61,1538.7,1687.31
+Customer XPNIK,"Neves, Paulo",Venezuela,"Davis, Sara",CEO,Shipper ZHISN,Ship to 46-B,2021-11-19,2021-12-17,34.88,1167.68,1202.56
+Customer XPNIK,"Neves, Paulo",Venezuela,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 46-C,2022-12-16,2022-12-30,42.13,720,762.13
+Customer XPNIK,"Neves, Paulo",Venezuela,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 46-A,2021-10-16,2021-11-13,12.75,1649,1661.75
+Customer XPNIK,"Neves, Paulo",Venezuela,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 46-A,2021-08-16,2021-09-13,84.81,1414.8,1499.61
+Customer XPNIK,"Neves, Paulo",Venezuela,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 46-C,2021-12-12,2022-01-09,7.99,112,119.99
+Customer XPNIK,"Neves, Paulo",Venezuela,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 46-A,2023-01-09,2023-02-06,163.97,2826,2989.97
+Customer XPNIK,"Neves, Paulo",Venezuela,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 46-C,2023-02-20,2023-03-20,1.21,122.4,123.61
+Customer XPNIK,"Neves, Paulo",Venezuela,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 46-C,2022-04-08,2022-05-06,102.02,1412,1514.02
+Customer XPNIK,"Neves, Paulo",Venezuela,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 46-C,2021-09-03,2021-10-01,0.12,1050.6,1050.72
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Cameron, Maria",Sales Representative,Shipper ZHISN,Destination OTSWR,2022-03-31,2022-04-28,16.96,259.505,276.465
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Davis, Sara",CEO,Shipper GVSUA,Destination CIRQO,2022-07-18,2022-08-15,7.46,230.85,238.31
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Davis, Sara",CEO,Shipper ZHISN,Destination OTSWR,2022-09-10,2022-10-08,1.27,1288.3875,1289.6575
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Doyle, Patricia",Sales Representative,Shipper ZHISN,Destination CIRQO,2023-03-19,2023-04-16,2.7,57.8,60.5
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination OTSWR,2021-11-12,2021-11-26,1.3,136.3,137.6
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination OTSWR,2022-03-04,2022-04-01,89,1609.28,1698.28
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination CIRQO,2021-10-14,2021-11-11,87.03,1168,1255.03
+Customer XYUFB,"Cavaglieri, Giorgio",Portugal,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination OTSWR,2022-05-28,2022-07-09,72.95,1677.3,1750.25
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 89-C,2022-07-11,2022-08-08,16.34,1180.88,1197.22
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 89-A,2022-10-08,2022-11-19,102.55,996,1098.55
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Davis, Sara",CEO,Shipper GVSUA,Ship to 89-C,2022-03-10,2022-04-07,60.18,956.675,1016.855
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 89-B,2023-04-17,2023-05-15,606.19,8902.5,9508.69
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 89-A,2022-03-24,2022-04-21,15.28,668.8,684.08
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 89-A,2023-05-01,2023-05-29,44.72,928.75,973.47
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 89-C,2022-10-30,2022-11-27,21.72,468.45,490.17
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 89-A,2023-02-24,2023-03-24,162.95,1924.25,2087.2
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 89-C,2022-10-06,2022-10-20,139.34,2071.2,2210.54
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Mortensen, Sven",Sales Manager,Shipper GVSUA,Ship to 89-B,2021-07-31,2021-08-14,4.56,642.2,646.76
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 89-A,2021-11-01,2021-11-29,23.29,2296,2319.29
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 89-B,2022-11-13,2022-12-11,81.88,1416,1497.88
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 89-C,2023-01-30,2023-02-27,14.93,3523.4,3538.33
+Customer YBQTI,"Smith Jr., Ronaldo",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 89-B,2022-04-11,2022-05-09,59.13,1388.5,1447.63
+Customer YJCBX,"Orint, Neil",Brazil,"Davis, Sara",CEO,Shipper ZHISN,Destination GWPFK,2022-10-17,2022-11-14,210.8,3424,3634.8
+Customer YJCBX,"Orint, Neil",Brazil,"Funk, Don","Vice President, Sales",Shipper ZHISN,Destination VNIAG,2022-11-07,2022-12-05,1.63,1498.35,1499.98
+Customer YJCBX,"Orint, Neil",Brazil,"King, Russell",Sales Representative,Shipper ETYNR,Destination GWPFK,2022-12-15,2022-12-29,3.01,224,227.01
+Customer YJCBX,"Orint, Neil",Brazil,"Lew, Judy",Sales Manager,Shipper GVSUA,Destination XOIGC,2023-04-24,2023-05-22,8.34,273.6,281.94
+Customer YJCBX,"Orint, Neil",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination VNIAG,2022-09-01,2022-09-29,7.14,318.835,325.975
+Customer YJCBX,"Orint, Neil",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination VNIAG,2022-09-29,2022-10-13,33.75,801.1,834.85
+Customer YJCBX,"Orint, Neil",Brazil,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination GWPFK,2023-03-18,2023-04-29,4.98,131.75,136.73
+Customer YJCBX,"Orint, Neil",Brazil,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination XOIGC,2022-12-22,2023-01-19,28.23,722.5,750.73
+Customer YJCBX,"Orint, Neil",Brazil,"Suurs, Paul",Sales Representative,Shipper ZHISN,Destination VNIAG,2022-01-23,2022-02-06,24.5,1020,1044.5
+Customer YQQWW,"Edwards, Josh",Brazil,"Davis, Sara",CEO,Shipper ETYNR,Ship to 81-A,2021-08-28,2021-09-25,1.35,1296,1297.35
+Customer YQQWW,"Edwards, Josh",Brazil,"Davis, Sara",CEO,Shipper ZHISN,Ship to 81-A,2023-01-15,2023-02-12,29.78,1432.714,1462.494
+Customer YQQWW,"Edwards, Josh",Brazil,"King, Russell",Sales Representative,Shipper ETYNR,Ship to 81-C,2022-04-04,2022-05-02,46.77,190,236.77
+Customer YQQWW,"Edwards, Josh",Brazil,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 81-C,2023-01-19,2023-02-16,35.43,827.55,862.98
+Customer YQQWW,"Edwards, Josh",Brazil,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 81-C,2023-01-13,2023-02-24,81.83,1974,2055.83
+Customer YQQWW,"Edwards, Josh",Brazil,"Peled, Yael",Sales Representative,Shipper ZHISN,Ship to 81-C,2022-07-22,2022-08-19,79.4,1130.4,1209.8
+Customer YSHXL,"MacDonald, Scott",France,"Funk, Don","Vice President, Sales",Shipper GVSUA,Ship to 74-A,2022-11-12,2022-12-10,2.91,52.35,55.26
+Customer YSHXL,"MacDonald, Scott",France,"Lew, Judy",Sales Manager,Shipper ETYNR,Ship to 74-B,2023-03-20,2023-04-17,87.38,2052.5,2139.88
+Customer YSHXL,"MacDonald, Scott",France,"Mortensen, Sven",Sales Manager,Shipper ETYNR,Ship to 74-B,2023-04-22,2023-05-20,8.8,210,218.8
+Customer YSHXL,"MacDonald, Scott",France,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 74-B,2023-02-25,2023-03-25,9.19,108.5,117.69
+Customer YSIQX,"Krishnan, Venky",United States,"Cameron, Maria",Sales Representative,Shipper ETYNR,Destination AVQUS,2022-07-04,2022-08-01,4.42,72,76.42
+Customer YSIQX,"Krishnan, Venky",United States,"Davis, Sara",CEO,Shipper ETYNR,Destination LLUXZ,2022-07-31,2022-08-28,116.53,4807,4923.53
+Customer YSIQX,"Krishnan, Venky",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination AVQUS,2023-03-09,2023-04-06,33.68,456,489.68
+Customer YSIQX,"Krishnan, Venky",United States,"Lew, Judy",Sales Manager,Shipper ETYNR,Destination LLUXZ,2023-04-07,2023-05-05,25.19,329.685,354.875
+Customer YSIQX,"Krishnan, Venky",United States,"Lew, Judy",Sales Manager,Shipper ZHISN,Destination AVQUS,2022-09-25,2022-10-23,76.13,1287.4,1363.53
+Customer YSIQX,"Krishnan, Venky",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination AVQUS,2022-07-31,2022-08-28,18.53,1402.5,1421.03
+Customer YSIQX,"Krishnan, Venky",United States,"Peled, Yael",Sales Representative,Shipper ETYNR,Destination AVQUS,2023-01-06,2023-02-03,719.78,8446.45,9166.23
+Customer YSIQX,"Krishnan, Venky",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination VYOBK,2023-04-22,2023-05-20,18.84,200,218.84
+Customer YSIQX,"Krishnan, Venky",United States,"Peled, Yael",Sales Representative,Shipper ZHISN,Destination VYOBK,2023-04-30,2023-06-11,14.01,510,524.01
+Customer YSIQX,"Krishnan, Venky",United States,"Suurs, Paul",Sales Representative,Shipper ETYNR,Destination LLUXZ,2022-05-06,2022-05-20,3.35,392.2,395.55
+Customer YSIQX,"Krishnan, Venky",United States,"Suurs, Paul",Sales Representative,Shipper GVSUA,Destination AVQUS,2022-09-04,2022-10-02,57.15,604.215,661.365
+Customer ZHYOS,"Ludwig, Michael",Finland,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 87-B,2022-02-24,2022-04-07,180.45,2684,2864.45
+Customer ZHYOS,"Ludwig, Michael",Finland,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 87-C,2022-01-13,2022-02-10,3.77,334.8,338.57
+Customer ZHYOS,"Ludwig, Michael",Finland,"Cameron, Maria",Sales Representative,Shipper GVSUA,Ship to 87-A,2022-02-05,2022-03-05,19.97,393,412.97
+Customer ZHYOS,"Ludwig, Michael",Finland,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 87-A,2022-01-16,2022-02-13,22.72,720,742.72
+Customer ZHYOS,"Ludwig, Michael",Finland,"Davis, Sara",CEO,Shipper GVSUA,Ship to 87-B,2021-08-01,2021-08-29,136.54,1376,1512.54
+Customer ZHYOS,"Ludwig, Michael",Finland,"Doyle, Patricia",Sales Representative,Shipper GVSUA,Ship to 87-C,2022-11-21,2022-12-19,79.3,1590.5625,1669.8625
+Customer ZHYOS,"Ludwig, Michael",Finland,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 87-B,2022-05-30,2022-06-27,149.49,1546.3,1695.79
+Customer ZHYOS,"Ludwig, Michael",Finland,"Funk, Don","Vice President, Sales",Shipper ETYNR,Ship to 87-C,2022-06-30,2022-07-28,7.28,2237.5,2244.78
+Customer ZHYOS,"Ludwig, Michael",Finland,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 87-A,2022-12-17,2023-01-14,73.16,975.88,1049.04
+Customer ZHYOS,"Ludwig, Michael",Finland,"Lew, Judy",Sales Manager,Shipper ZHISN,Ship to 87-B,2021-07-26,2021-09-06,25.73,346.56,372.29
+Customer ZHYOS,"Ludwig, Michael",Finland,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 87-A,2021-10-03,2021-10-17,34.57,516,550.57
+Customer ZHYOS,"Ludwig, Michael",Finland,"Mortensen, Sven",Sales Manager,Shipper ZHISN,Ship to 87-C,2021-10-18,2021-11-15,0.59,877.2,877.79
+Customer ZHYOS,"Ludwig, Michael",Finland,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 87-C,2022-05-05,2022-06-02,58.59,1151.4,1209.99
+Customer ZHYOS,"Ludwig, Michael",Finland,"Peled, Yael",Sales Representative,Shipper GVSUA,Ship to 87-A,2022-08-19,2022-09-16,1.15,629.5,630.65
+Customer ZHYOS,"Ludwig, Michael",Finland,"Suurs, Paul",Sales Representative,Shipper ZHISN,Ship to 87-C,2023-04-15,2023-05-13,29.17,270,299.17
+Customer ZRNDE,"Manar, Karim",Denmark,"Cameron, Maria",Sales Representative,Shipper ETYNR,Ship to 83-A,2022-07-17,2022-08-14,2.92,48.75,51.67
+Customer ZRNDE,"Manar, Karim",Denmark,"Cameron, Maria",Sales Representative,Shipper ZHISN,Ship to 83-C,2021-12-31,2022-01-14,27.36,1765.6,1792.96
+Customer ZRNDE,"Manar, Karim",Denmark,"Davis, Sara",CEO,Shipper ETYNR,Ship to 83-B,2023-03-12,2023-04-09,27.2,1407.5,1434.7
+Customer ZRNDE,"Manar, Karim",Denmark,"Davis, Sara",CEO,Shipper GVSUA,Ship to 83-A,2022-07-07,2022-07-21,55.92,812.5,868.42
+Customer ZRNDE,"Manar, Karim",Denmark,"Davis, Sara",CEO,Shipper GVSUA,Ship to 83-A,2023-03-03,2023-04-14,176.48,1936,2112.48
+Customer ZRNDE,"Manar, Karim",Denmark,"Davis, Sara",CEO,Shipper ZHISN,Ship to 83-A,2022-03-05,2022-04-02,145.04,2518,2663.04
+Customer ZRNDE,"Manar, Karim",Denmark,"Funk, Don","Vice President, Sales",Shipper ZHISN,Ship to 83-C,2023-04-02,2023-04-16,65.53,940.5,1006.03
+Customer ZRNDE,"Manar, Karim",Denmark,"King, Russell",Sales Representative,Shipper ZHISN,Ship to 83-B,2021-11-28,2021-12-26,13.55,834.2,847.75
+Customer ZRNDE,"Manar, Karim",Denmark,"Lew, Judy",Sales Manager,Shipper GVSUA,Ship to 83-C,2022-12-08,2023-01-05,65.06,1684.275,1749.335
+Customer ZRNDE,"Manar, Karim",Denmark,"Peled, Yael",Sales Representative,Shipper ETYNR,Ship to 83-A,2022-10-01,2022-10-15,299.09,3160.6,3459.69
+Customer ZRNDE,"Manar, Karim",Denmark,"Suurs, Paul",Sales Representative,Shipper GVSUA,Ship to 83-A,2022-11-17,2022-12-15,69.19,736,805.19
