@@ -166,7 +166,7 @@ parse_data:
     jmp next_char
     
 check_value_field:
-    cmp comma_count, 10
+    cmp comma_count, 2
     jne next_char
     mov [ebx], al
     inc ebx
@@ -276,3 +276,222 @@ exit_prog:
     invoke ExitProcess, 0
 
 end start
+
+
+;  REGULAR CODE
+; .386
+; .model flat, stdcall
+; option casemap:none
+
+; include \masm32\include\kernel32.inc
+; include \masm32\include\masm32.inc
+; include \masm32\include\user32.inc
+; include \masm32\include\msvcrt.inc
+
+; includelib \masm32\lib\kernel32.lib
+; includelib \masm32\lib\masm32.lib
+; includelib \masm32\lib\user32.lib
+; includelib \masm32\lib\msvcrt.lib
+
+; ; Constants
+; GENERIC_READ        equ 80000000h
+; FILE_SHARE_READ     equ 00000001h
+; OPEN_EXISTING       equ 3
+; FILE_ATTRIBUTE_NORMAL equ 80h
+; INVALID_HANDLE_VALUE equ -1
+; NULL                equ 0
+; BUFFER_SIZE         equ 150000
+; MAX_CUSTOMERS       equ 100
+
+; .data
+;     filename    db "sales_order_report.csv", 0
+;     fileHandle  dd 0
+;     buffer      db BUFFER_SIZE dup(0)
+;     error_msg   db "Error opening file", 0
+;     success_msg db "Processing file...", 13, 10, 0
+;     bytesRead   dd 0
+    
+;     current_customer    db 100 dup(0)
+;     value_str   db 50 dup(0)
+;     comma_count dd 0
+    
+;     customer_names db MAX_CUSTOMERS * 100 dup(0)
+;     customer_totals dq MAX_CUSTOMERS dup(0.0)  ; Changed to qword (double precision)
+;     customer_count dd 0
+    
+;     fmt_str     db "Customer: %s, Total Value: %.2f", 13, 10, 0
+    
+;     temp_double dq 0.0  ; Temporary storage for double precision value
+
+; .code
+; process_value proc
+;     local value:real8
+    
+;     invoke crt_atof, addr value_str
+;     fstp value
+    
+;     ; Load the value and customer's current total
+;     fld value
+;     mov eax, ebx
+;     fld qword ptr [customer_totals + eax * 8]
+    
+;     ; Add them
+;     faddp st(1), st(0)
+    
+;     ; Store back to customer's total
+;     fstp qword ptr [customer_totals + eax * 8]
+;     ret
+; process_value endp
+
+; find_customer proc uses esi edi ebx
+;     mov esi, offset customer_names
+;     xor ebx, ebx
+    
+; find_loop:
+;     cmp ebx, [customer_count]
+;     jae add_new_customer
+    
+;     push offset current_customer
+;     push esi
+;     call crt_strcmp
+;     add esp, 8
+    
+;     test eax, eax
+;     jz found_customer
+    
+;     add esi, 100
+;     inc ebx
+;     jmp find_loop
+    
+; add_new_customer:
+;     push offset current_customer
+;     push esi
+;     call crt_strcpy
+;     add esp, 8
+    
+;     ; Initialize new customer's total to 0.0
+;     mov eax, customer_count
+;     fldz
+;     fstp qword ptr [customer_totals + eax * 8]
+    
+;     inc eax
+;     mov customer_count, eax
+    
+; found_customer:
+;     mov eax, ebx
+;     ret
+; find_customer endp
+
+; start:
+;     ; File operations remain the same
+;     push NULL
+;     push FILE_ATTRIBUTE_NORMAL
+;     push OPEN_EXISTING
+;     push NULL
+;     push FILE_SHARE_READ
+;     push GENERIC_READ
+;     push offset filename
+;     call CreateFileA
+;     mov fileHandle, eax
+    
+;     cmp eax, INVALID_HANDLE_VALUE
+;     je error_handler
+    
+;     push NULL
+;     push offset bytesRead
+;     push BUFFER_SIZE
+;     push offset buffer
+;     push fileHandle
+;     call ReadFile
+    
+;     mov esi, offset buffer
+;     add esi, 3  ; Skip BOM
+    
+; skip_header:
+;     mov al, [esi]
+;     inc esi
+;     cmp al, 0Ah
+;     jne skip_header
+    
+; process_csv:
+;     mov comma_count, 0
+;     mov edi, offset current_customer
+;     mov ebx, offset value_str
+    
+; parse_csv_line:
+;     mov al, [esi]
+    
+;     cmp al, 0
+;     je print_totals
+    
+;     cmp al, 0Ah
+;     je process_line_data
+    
+;     cmp al, ','
+;     je increment_comma
+    
+;     cmp comma_count, 0
+;     jne check_value
+;     mov [edi], al
+;     inc edi
+;     jmp continue_parse
+    
+; check_value:
+;     cmp comma_count, 10
+;     jne continue_parse
+;     mov [ebx], al
+;     inc ebx
+    
+; continue_parse:
+;     inc esi
+;     jmp parse_csv_line
+    
+; increment_comma:
+;     inc comma_count
+;     inc esi
+;     jmp parse_csv_line
+    
+; process_line_data:
+;     mov byte ptr [edi], 0
+;     mov byte ptr [ebx], 0
+    
+;     call find_customer
+;     mov ebx, eax
+    
+;     call process_value
+    
+;     inc esi
+;     jmp process_csv
+    
+; print_totals:
+;     mov esi, offset customer_names
+;     xor ebx, ebx
+    
+; print_loop:
+;     cmp ebx, [customer_count]
+;     jae done
+    
+;     fld qword ptr [customer_totals + ebx * 8]
+;     sub esp, 8
+;     fstp qword ptr [esp]
+;     push esi
+;     push offset fmt_str
+;     call crt_printf
+;     add esp, 16
+    
+;     add esi, 100
+;     inc ebx
+;     jmp print_loop
+    
+; done:
+;     push fileHandle
+;     call CloseHandle
+;     jmp exit_prog
+    
+; error_handler:
+;     invoke StdOut, addr error_msg
+    
+; exit_prog:
+;     invoke ExitProcess, 0
+
+; end start

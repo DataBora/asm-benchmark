@@ -3,13 +3,13 @@ set path=%path%;c:\masm32\bin
 set include=c:\masm32\include
 set lib=c:\masm32\lib
 
-ml /c /Zd /coff readcsv.asm
+ml /c /Zd /coff readcsv2.asm
 if errorlevel 1 goto error
 
-link /subsystem:console readcsv.obj
+link /subsystem:console readcsv2.obj
 if errorlevel 1 goto error
 
-readcsv.exe
+readcsv2.exe
 goto end
 
 :error
